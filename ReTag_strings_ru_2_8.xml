@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 Sascha Fassbender -->
+
+<resources>
+
+    <string name="russian_language">Russian</string>
+ 
+    
+    <string name="add_any_uri">Add URI (starts with e.g. mailto:, file:, geo:, http:)</string>
+    <string name="add_non_nfc_tags">Add NON NFC tags (NFC tags = Just scan!)</string>
+    <string name="add_pop_up_text">Add pop up text</string>
+    <string name="add_ssid">Add SSID</string>
+    <string name="add_tag">New Trigger</string>
+    <string name="add_text_to_speech_e_g_hello_world">Add Text to Speech (e.g. Hello world)</string>
+    <string name="add_timestamp_title">Add timestamp title</string>
+    <string name="add_title_for_calendar_entry">Add title for calendar entry</string>
+    <string name="add_title_prefix">Add title prefix</string>
+    <string name="add_uri">"Add URI (e.g. file:your_filepath or mailto:your@mail.com?subject=test 1234&amp;body=test 5678)"</string>
+    <string name="add_web_adress_e_g_www_google_com_">Add web address (e.g. www.google.com)</string>
+    <string name="additional_features">Additional features</string>
+    <string name="Advanced_Settings_txt">Shows advanced and database settings for fine tuning and troubleshooting</string>
+    <string name="Advanced_Settings">Advanced Settings</string>
+    <string name="aggressive_mode_txt">Most aggressive NFC catching mode. Try to catch them all.</string>
+    <string name="aggressive_mode">NFC Aggressive mode</string>
+    <string name="agree">"Agree"</string>
+    <string name="alarm_volume_set">Alarm volume set from </string>
+    <string name="alert_dialog_add">Add TAG</string>
+    <string name="alert_dialog_edit">EDIT</string>
+    <string name="allow">Access!</string>
+    <string name="am_pm_support_hl">Say time in AM PM</string>
+    <string name="am_pm_support_txt">Support Say time in AM PM</string>
+    <string name="application_error">Application error: %1$s</string>
+    <string name="askuser_pro">Dear user,\n\nthank you for using NFC ReTag and buying the PRO version!\n\nWe would like to ask you, to support us by rating this app and leaving a short comment. \n\nThanks again and have fun! </string>
+    <string name="askuser">Dear user,\n\nthank you for using NFC ReTag!\n\nWe would like to ask you, to support us by rating this app and leaving a short comment. \n\nYou could even buy us a coffee by downloading the PRO version ;-)\n\nThanks again and have fun! </string>
+    <string name="auto_brightness_brightness_dialog">Auto Brightness</string>
+    <string name="autobackup_txt">Disables auto backup!</string>
+    <string name="autobackup">Disables auto backup</string>
+    <string name="available_bt_devices">Available BT devices</string>
+    <string name="backup_done_file_stored_in">"Backup done. File stored in: "</string>
+    <string name="battery_low">Battery LOW</string>
+    <string name="battery_ok">Battery OK</string>
+    <string name="battery_trigger">Add Battery trigger</string>
+    <string name="beam_ok">BEAM done!</string>
+    <string name="beta_car_mode_implementation">BETA! Car mode implementation depends on your device and rom! BETA!</string>
+    <string name="blank"></string>
+    <string name="broadcast_var_lowercase_hl">Lower case ReTag Broadcast variables</string>
+    <string name="broadcast_var_lowercase_txt">Change the ReTag Broadcast variables to lower case (e.g.RETAG_UID/retag_uid). (compatibility mode!)</string>
+    <string name="bt_device_tag">Write standard Bluetooth tag (BETA)</string>
+    <string name="bt_disabled_please_enable_bt_first">Bluetooth disabled. Bluetooth must be enabled to get the saved bluetooth devices.</string>
+    <string name="bt_disabled">Bluetooth disabled</string>
+    <string name="bt_settings_not_available">Bluetooth Settings NOT available!</string>
+    <string name="bt_trigger">Add Bluetooth trigger</string>
+    <string name="button_template">Add template</string>
+    <string name="buy_button">Buy app</string>
+    <string name="Calendar_id_txt">Choose calendar ID for timestamp (via Expert Plugin)</string>
+    <string name="Calendar_id">Calendar ID</string>
+    <string name="Calendar">Calendar</string>
+    <string name="CalendarTimestamp_txt">Shows calendar and timestamp settings</string>
+    <string name="CalendarTimestamp">Calendar and Timestamp</string>
+    <string name="cancel">Cancel</string>
+    <string name="cb_brightness_dialog">Disable auto and use values</string>
+    <string name="change_activity">Change activity</string>
+    <string name="change_the_homescreen_activity_to_an_other_activity">Change the Homescreen activity to an other activity</string>
+    <string name="change_to_other_activity">Change to other activity?</string>
+    <string name="Check_again_txt">Updates the current status </string>
+    <string name="Check_again">Check again</string>
+    <string name="check_license">Check again</string>
+    <string name="checking_license">Checking license&#8230;</string>
+    <string name="choose_a_file_to_import">Choose a file to import</string>
+    <string name="choose_a_template_to_add_to_the_current_tag_and_cycle">Choose a template to add to the current tag and cycle</string>
+    <string name="choose_calendar_current_id">"Choose Calendar (current ID="</string>
+    <string name="confirm">OK</string>
+    <string name="congratulation_activity_tag_written">Congratulation! Activity tag written!</string>
+    <string name="congratulation_nfc_retag_aar_tag_written">Congratulation! Special NFC ReTAG tag written! (version tag)</string>
+    <string name="congratulation_nfc_retag_adv_aar_tag_written">Congratulation! Special NFC ReTAG tag written! (adv. version tag)</string>
+    <string name="congratulation_nfc_retag_tag_written_beta_pre_ics">Congratulation! NFC ReTAG tag written (BETA pre-ICS)!</string>
+    <string name="congratulation_nfc_retag_vers_independent_tag_written">Congratulation! Special NFC ReTAG tag written! (market tag)</string>
+    <string name="congratulation_smallest_nfc_retag_tag_written_fallback">Congratulation! NFC ReTAG tag written (fallback)!</string>
+    <string name="congratulation_smarttag_for_sony_devices_written">Congratulation! Smarttag for sony devices written!</string>
+    <string name="congratulation_tag_formated">Congratulation! Tag formated!</string>
+    <string name="created_details_dialog">Created</string>
+    <string name="custom_parameter">Your variable</string>
+    <string name="cyc_in_tasker_cyc">in Tasker: \u0025cyc </string>
+    <string name="Cycle_hl">Cycle #</string>
+    <string name="cycle_title">Cycle</string>
+    <string name="cycle_toast">Cycle</string>
+    <string name="Database">Database</string>
+    <string name="depends_on_the_media_button_support">Depends on the media button support of your media player! (Default: TOGGLE PLAY)</string>
+    <string name="details">Details</string>
+    <string name="disables_enables_dispatching_for_tag_lost">Changes the background recognition of lost tags (Root, Xposed Framework and NFCLockScreenOffEnabler module req.!)</string>
+    <string name="disables_enables_dispatching">Receiver changed!</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="dl_plugin_txt">Download Plugin from Google Playstore</string>
+    <string name="dl_plugin">Download Plugin</string>
+    <string name="do_nothing">Do nothing</string>
+    <string name="do_you_want_to_import_your_database">Do you want to import your database from the FREE version?\n\nHINT: Auto backup must be activated in FREE version!\n\nAnd don´t forget to rewrite your special NFC ReTAG tags ;-)</string>
+    <string name="do_you_want_to_save_this_tag_as_a_template">Do you want to save this tag as a template?</string>
+    <string name="don_t_ask_me_again">Don´t ask me again!</string>
+    <string name="dont_add_new_lost_tags_hl">Don´t add tag lost tags!</string>
+    <string name="dont_add_new_lost_tags_txt">Disables the new tag messages if a new lost tag occures!</string>
+    <string name="dont_allow">Sorry no access. Please check your connection!"</string>
+    <string name="Dont_ask_txt">Enable/ disables user dialog for rating the app</string>
+    <string name="Dont_ask">Don´t ask me to rate!</string>
+    <string name="dont_show_again">Don´t show again</string>
+    <string name="Dont_show_alarm_settings_txt">(BETA) Uses official android api (> GB), but even most stock alarm clocks, doesn´t support it. Works best with 3rd party alarm clocks.(BETA) </string>
+    <string name="Dont_show_alarm_settings">Do not show alarm settings</string>
+    <string name="dontask_button">Don´t ask me again!</string>
+    <string name="download_button">Pro Version</string>
+    <string name="download_plugin">Download Plugin</string>
+    <string name="Edit_mode_txt">Enables edit mode while app in foreground (= disable automode). Tap tag for edit.</string>
+    <string name="Edit_mode">Enable Edit mode</string>
+    <string name="edit_tagname">Edit tag name</string>
+    <string name="edit">Edit</string>
+    <string name="enable_log_txt">Logs fired tags and triggers in an app internal table.</string>
+    <string name="enable_log">Enable log</string>
+    <string name="Enables_para_replacement_hl">Enables placeholder parameters</string>
+    <string name="Enables_para_replacement_txt">Enables replacement of placeholder parameters (e.g. [%UID], [%DAT] etc.)</string>
+    <string name="error_insert_template">Error insert template</string>
+    <string name="error_jb_airplane">[Airplane mode] activity needs ROOT and Plugin since Jelly Bean 4.2</string>
+    <string name="error_jb_stay_on"> [Stay on while charging] activity needs ROOT and Plugin since Jelly Bean 4.2</string>
+    <string name="error_launch_app">Launch App error! Did you uninstall the specified app?</string>
+    <string name="error">ERROR</string>
+    <string name="expert_Plugin_txt">Shows status and settings for the NFC ReTag Expert Plugin  </string>
+    <string name="expert_Plugin">Expert Plugin  </string>
+    <string name="ExportDB_txt">Export DB to user accessible folder</string>
+    <string name="ExportDB">Export DB</string>
+    <string name="file">File</string>
+    <string name="fire_trigger_when">Fire trigger when</string>
+    <string name="format_error_nothing_done">Format error! Nothing done!</string>
+    <string name="format_tag">Format as NDEF tag (BETA)</string>
+    <string name="get_log">Show log</string>
+    <string name="gopro_button">Go PRO</string>
+    <string name="gps">GPS</string>
+    <string name="help">Help</string>
+    <string name="hint_add_name">Set tag name!</string>
+    <string name="hint_add_optinal_title_for_calendar_entry">HINT: Add optinal title for calendar entry. This activity opens a new calendar entry. You have to add additional information and save it manually.</string>
+    <string name="hint_add_optional_timestamp_title">HINT: Add optional timestamp title</string>
+    <string name="hint_add_pop_up_text">HINT: Add pop up text</string>
+    <string name="hint_add_text_parameter">Please add a text!</string>
+    <string name="hint_add_web_adress">HINT: Add web address (e.g. www.google.com). Disable http:// pre-fix via settings.</string>
+    <string name="hint_brightness_dialog">Hint: Sometimes manual refresh of screen required.</string>
+    <string name="hint_custom_parameter_as_stringextra">You can catch your custom parameter via StringExtra RETAG_MYVAR. Broadcast action = </string>
+    <string name="hint_do_not_add_more_than_1_texttospeech">HINT: Do NOT add more than 1 TexttoSpeech activity per tag. Some strange things could happen! Only 1 TexttoSpeech activity per tag supported!</string>
+    <string name="hint_please_add_navigation_destination">HINT: Please add navigation destination (Google maps compatible format-> e.g. 1600 Amphitheatre Parkway Mountain View, CA 94043) or leave blank to start navigation without destination.)</string>
+    <string name="hint_please_add_phone_number">HINT: Please add phone number</string>
+    <string name="hint_please_add_secret_code">HINT: Please add secret code without prefix (*#*#) and suffix (#*#*)\n\ne.g. *#*#4636#*#* = 4636</string>
+    <string name="hint_please_add_time_in_milliseconds">HINT: Please add time in milliseconds (2500 = 2,5 seconds). Please be aware that this activity is, due to the internal handling in android, highly unreliable.</string>
+    <string name="hint_set_alarm_in_x_minutes">HINT: Set Alarm in X minutes. Android standard alarm doesn´t support seconds, so be aware that the alarm time is rounded to the minute!</string>
+    <string name="hint_task_action_parameter">"You could use your custom variable in Tasker via %yvr. "</string>
+    <string name="hint_tasker_fallback_solution">HINT: Tasker fallback solution may be active (change via settings). Please add exact tasker task name manually within the parameter field, watch out for unnecessary blanks!\n\nStill doesn´t work? -> Enable Tasker (on/off button in Tasker UI), check Tasker settings (misc) \'allow external access\', install NFC ReTAG AFTER Tasker (-> re-install NFC ReTAG->don´t forget to backup DB).</string>
+    <string name="hint">hint</string>
+    <string name="hl_receivers">Receivers</string>
+    <string name="HTTP_prefix_txt">Disables the \&apos;http://\&apos; prefix for internet addresse within the browse activity!</string>
+    <string name="HTTP_prefix">Disable HTTP prefix</string>
+    <string name="if_you_have_issues_with_the_tasker_integration">If you have issues with the tasker integration, please try the Tasker fallback solution via settings.</string>
+    <string name="import_done">Import done!</string>
+    <string name="import_tag">Import tag</string>
+    <string name="ImportDB_txt">Import DB. Will delete your current database.</string>
+    <string name="ImportDB">Import DB</string>
+    <string name="importing_a_database_delete_all_entries_in_your_current_database">Importing a database delete all entries in your current database!</string>
+    <string name="info_nfc_retag_beam">INFO: NFC ReTag BEAM</string>
+    <string name="item_loading">Loading&#8230;nothing found so far&#8230;</string>
+    <string name="Language_region_hl">Language</string>
+    <string name="Language_region_txt">Language and region settings</string>
+    <string name="Language_region">Language Settings</string>
+    <string name="language_setting_hl">Alternative Language</string>
+    <string name="language_setting_txt">Overrides the system language within NFC ReTag (BETA)</string>
+    <string name="last_cycle_details_dialog">Last cycle</string>
+    <string name="last_scan_details_dialog">Last scan</string>
+    <string name="launch_list_empty">Loading &#8230;it´s quite a lot work &#8230; ;-)</string>
+    <string name="launcher_loading_your_apps">LAUNCHER: Loading your apps</string>
+    <string name="letmetry_market">Market tag</string>
+    <string name="letmetry">PRE-ICS</string>
+    <string name="limit">LIMIT</string>
+    <string name="loading_market">Loading market</string>
+    <string name="loading_playstore">Loading playstore!</string>
+    <string name="log_empty">Log empty. You can enable/ disable the log via settings.</string>
+    <string name="log_hl_cycle">Cy#</string>
+    <string name="log_hl_retag_id">ReTag ID</string>
+    <string name="log_hl_tag">Tag</string>
+    <string name="log_hl_time">Time</string>
+    <string name="logo">Logo</string>
+    <string name="lost_tags_hl_ps">Tag Lost</string>
+    <string name="lost_tags_hl">Activate Tag Lost support</string>
+    <string name="lost_tags_txt">Root and Xposed required! (BETA)</string>
+    <string name="menu_add_cycle">"Add new cycle"</string>
+    <string name="menu_add_template">Add template to cycle</string>
+    <string name="menu_beam">Beam</string>
+    <string name="menu_cycle">"Cycle"</string>
+    <string name="menu_delete_cycle">"Delete last cycle"</string>
+    <string name="menu_delete_log">Clear log</string>
+    <string name="menu_delete">DELETE</string>
+    <string name="menu_details">"Details"</string>
+    <string name="menu_edit">EDIT</string>
+    <string name="menu_help">"Help"</string>
+    <string name="menu_info_disclaimer">"Disclaimer"</string>
+    <string name="menu_info_new">"News"</string>
+    <string name="menu_info_rate_app">Rate app!</string>
+    <string name="menu_info">"Info"</string>
+    <string name="menu_para_placeholders">Placeholders</string>
+    <string name="menu_plugin_info">Expert Plugin</string>
+    <string name="menu_prefs">Settings</string>
+    <string name="menu_pro">"Pro"</string>
+    <string name="menu_save_template">Save cycle as template</string>
+    <string name="menu_simulate">SIMULATE</string>
+    <string name="menu_template">Template</string>
+    <string name="menu_write_activity_tag">Write activity tag (optional)</string>
+    <string name="menu_write_info">Why writing tags?</string>
+    <string name="menu_write_tag">Write</string>
+    <string name="message_expert_plugin">Some activities need ROOT and/or security related permissions. To keep the main app secure, NFC ReTag provides a FREE \"NFC ReTag Expert Plugin\". Please download the plugin from Google Playstore, if you want to start such an activity.</string>
+    <string name="mgt_template">Manage templates</string>
+    <string name="Misc_Settings">Misc Settings</string>
+    <string name="More_Advanced_Settings">More Advanced Settings</string>
+    <string name="more">more</string>
+    <string name="music_volume_set">Music volume set from </string>
+    <string name="Mute_popups_txt">This mutes the \&apos;Discovered tag\&apos; pop-ups with the activity info</string>
+    <string name="Mute_popups">Mute pop-ups</string>
+    <string name="name_or_uid_empty">" Name or UID empty! Please add Tag name and UID first!"</string>
+    <string name="name_toast">Name</string>
+    <string name="networks_in_range_ssid_">Networks in range (SSID)</string>
+    <string name="new_tag_detected_id_">"NEW Tag detected! ID: "</string>
+    <string name="next_cycle_details_dialog">Next cycle</string>
+    <string name="next">Next</string>
+    <string name="nfc_disabled_please_enable_nfc_first">NFC disabled! Please enable NFC first!</string>
+    <string name="nfc_disabled">NFC DISABLED</string>
+    <string name="nfc_retag_activity_tag_or_beam">ReTag: Info (ttb)</string>
+    <string name="nfc_retag_db_repair_colum_added">NFC ReTAG: DB repair: colum added: </string>
+    <string name="nfc_retag_db_repair_done">NFC ReTAG: DB repair done.</string>
+    <string name="nfc_retag_db_repair_tables_created">NFC ReTAG: DB repair: tables created.</string>
+    <string name="nfc_retag_error_import_file_not_found">NFC ReTAG: Error! Import file not found.</string>
+    <string name="nfc_retag_error_while_creating_template">NFC ReTAG: Error while creating template!</string>
+    <string name="nfc_retag_expert_plugin_is_installed_but_secsettings_not_available">NFC ReTag Expert Plugin is installed BUT SecSettings NOT available!</string>
+    <string name="nfc_retag_import_done">NFC ReTAG: Import done!</string>
+    <string name="nfc_retag_sorry_no_activity_saved_on_tag">NFC ReTAG: Sorry! No activity saved on tag!</string>
+    <string name="nfc_retag_update_data_done">NFC ReTAG: update data done.</string>
+    <string name="nfc_retag">NFC ReTAG</string>
+    <string name="no_activity_toast">NFC ReTAG: Sorry! No activity saved on tag or template for template activity not found!</string>
+    <string name="no_activity">NO ACTIVITY</string>
+    <string name="no_nfc">NO NFC</string>
+    <string name="no_tag">No entries found! Please add&#8230;</string>
+    <string name="no_template_found">NO Template found!</string>
+    <string name="no_uid">NO UID</string>
+    <string name="no_wifi_network_in_range_">NO WIFI NETWORK IN RANGE!</string>
+    <string name="nr_cycle_details_dialog">Nr of cycles</string>
+    <string name="nr_scan_details_dialog">Nr of scans</string>
+    <string name="number1">1</string>
+    <string name="ok">OK</string>
+    <string name="parameter_add_text_parameter">Parameter</string>
+    <string name="parameter_missing">Error! Please add a valid parameter!</string>
+    <string name="password_txt">Password</string>
+    <string name="permission_description_tasker">Tasker permission. NFC ReTag permission to run Tasker tasks.</string>
+    <string name="permission_description">NFC ReTag Plugin Permission. This is an internal NFC ReTag permission, for communication with NFC ReTag plugins.</string>
+    <string name="please_add_a_tag_name">Please add a tag name!</string>
+    <string name="please_add_address">Please add address</string>
+    <string name="please_add_phone_number">Please add phone number</string>
+    <string name="please_add_secret_code">Please add secret code</string>
+    <string name="please_add_tasker_task">Please add tasker task</string>
+    <string name="please_add_time_in_milliseconds">Please add time in milliseconds</string>
+    <string name="please_choose_activity_not_all_activities_will_launch">Please choose activity. Not all activities will launch!</string>
+    <string name="please_choose_saved_wifi">Please choose saved wifi network to connect. (Enable wifi, if list is empty!)</string>
+    <string name="please_choose_wifi_network_to_connect">Please choose wifi network to connect</string>
+    <string name="please_choose">: Please choose</string>
+    <string name="please_wait">Please wait&#8230;</string>
+    <string name="plug_in_installed_no_root_permission_granted_so_far_">Plugin installed, no Root permission granted so far.</string>
+    <string name="plug_in_installed_root_available">Plugin installed and Root activities available! ;-)</string>
+    <string name="plug_in_not_installed">Plugin NOT installed</string>
+    <string name="plugin_ins_txt">Shows if Expert Plugin is installed</string>
+    <string name="plugin_ins">Plugin installed?</string>
+    <string name="plugin_msg_txt">Show plugin related info messages.</string>
+    <string name="plugin_msg">Show messages</string>
+    <string name="Plugin">Plugin</string>
+    <string name="prev">Prev</string>
+    <string name="pro_text1">"An ad supported free version (with limited number of tags and triggers) and an unlimited ad-free version (PRO) is available. \n\nPlease check if this app works on your phone via the free version before downloading the pro version.\n\n "</string>
+    <string name="pro_text2">"The re-use of write protected tags is much cheaper than buying new tags. So buy us a coffee by downloading the pro version ;-)"</string>
+    <string name="pro_version">Pro Version</string>
+    <string name="pw_hint_none">NONE</string>
+    <string name="pw_hint">Please add password [min length 8]</string>
+    <string name="question_mark">\?</string>
+    <string name="quit_button">Exit</string>
+    <string name="rate_button">Rate app</string>
+    <string name="rb_aar_tag_advanced">Adv. Version tag (Default!)</string>
+    <string name="rb_aar_tag">Version tag (FREE or PRO)</string>
+    <string name="rb_write_tag_fallback">Fallback tag (only fallback)</string>
+    <string name="rb_write_vers_independent_tag">Market tag (Smaller!)</string>
+    <string name="receiver_activity_tags_txt">Catch NFC ReTag Activity tags and Activity beam.</string>
+    <string name="receiver_activity_tags">Activity tags and Beam</string>
+    <string name="receiver_battery_tags_txt">Catch battery triggers (beta).</string>
+    <string name="receiver_battery_tags">Battery trigger</string>
+    <string name="receiver_bt_tags_txt">Catch Bluetooth triggers (beta).</string>
+    <string name="receiver_bt_tags">Bluetooth trigger</string>
+    <string name="receiver_special_ReTag_txt">Catch special NFC ReTag tags (Default).</string>
+    <string name="receiver_special_ReTag">Special NFC Retag tags</string>
+    <string name="receiver_unspecified_tags_txt">Catch NON NFC ReTag (unspecified/write-protected/text etc.) tags. (Disable it to solve Beam problems on some devices.)</string>
+    <string name="receiver_unspecified_tags">NON NFC ReTag tags</string>
+    <string name="receiver_wifi_tags_txt">Catch Wifi triggers (beta).</string>
+    <string name="receiver_wifi_tags">Wifi trigger</string>
+    <string name="remind_me_later">Remind me later!</string>
+    <string name="remindlater_button">Remind me later.</string>
+    <string name="RepairDB_txt">Update/Repair DB. Try to update and repair database. Re-initialize some tables and values (e.g. tag stats)</string>
+    <string name="RepairDB">Update/Repair DB</string>
+    <string name="Request_Root_txt">Starts a manual root request for the Plugin. Usually not necessary.</string>
+    <string name="Request_Root">Request Root for Plugin</string>
+    <string name="reset_cycle">Reset cycle</string>
+    <string name="reset_settings_txt">Resets all NFC ReTag settings but keeps the database. You can reset the database via the database setting.</string>
+    <string name="reset_settings">Reset Settings</string>
+    <string name="retag_broadcast">ReTag Broadcast</string>
+    <string name="retag_format_hl">Tap a tag to FORMAT a tag &#8230;</string>
+    <string name="retag_support_xposed_tag_lost_hl">Tag Lost support!</string>
+    <string name="retag_support_xposed_tag_lost_txt">Support tag lost message from Xposed NFCLockScreenOffEnabler module!</string>
+    <string name="retag_write_hl">Tap a tag to write a special NFC ReTAG tag &#8230;</string>
+    <string name="retagid_details_dialog">ReTag ID</string>
+    <string name="rid_in_tasker_rid">in Tasker: \u0025rid </string>
+    <string name="ringer_volume_set">Ringer volume set from </string>
+    <string name="root_available_txt">Shows if Expert Plugin could run root activities</string>
+    <string name="root_available">Root activities?</string>
+    <string name="rt_Database_txt">Shows settings and troubleshooting options related to the NFC ReTag Database</string>
+    <string name="rt_Database">NFC ReTag Database</string>
+    <string name="save_template">Save template</string>
+    <string name="scan_text">Tap a TAG &#8230; </string>
+    <string name="sec_txt">Security</string>
+    <string name="separator"> / </string>
+    <string name="set_alarm_in_x_minutes">Set Alarm in X minutes</string>
+    <string name="set_brightness">Set Brightness</string>
+    <string name="set_pre_configured_timestamp_text">Set pre-configured timestamp text</string>
+    <string name="set_template_name">Set template name</string>
+    <string name="show_db">MY TAGS</string>
+    <string name="show_homescreen">Show Homescreen</string>
+    <string name="show_pw">Show password</string>
+    <string name="smarttag_write_hl">Tap a tag to write a smarttag for sony devices &#8230;Choose color first!</string>
+    <string name="smarttag">Write smarttag for sony devices</string>
+    <string name="sorry_android_4_0andup">Sorry, activity not supported on Android &lt; 4.0+</string>
+    <string name="sorry_it_seems_that_the_3rd_party_app_tasker_is_not_installed">Sorry, it seems that the 3rd party app Tasker is not installed!</string>
+    <string name="sorry_no_nfc_adapter_detected">Sorry no NFC adapter detected! NFC functions will not work! But you can use Wifi and Battery triggers and play around with the Manual tags.</string>
+    <string name="sorry_no_valid_uid_detected">Sorry no valid UID detected! Please add an valid and unique UID before simulating tags.</string>
+    <string name="sorry_something_is_wrong_with_your_tag_database">Sorry something is wrong with your tag database. More entries as expected (max. 6 within FREE version).Please clear app data (-> delete tag database)!</string>
+    <string name="sorry_tag_limit_reached">Sorry, tag limit for FREE version reached.\n\nTag limit: 4x NFC tags (incl. Manual) + 2 additional triggers (e.g. 1x Wifi + 1x Battery)\n\nPlease consider the PRO version, if you need more tags and triggers!</string>
+    <string name="sorry_this_feature_needs_android_4_0">Sorry, this feature needs android 4.0 ICS! There is a workaround for pre ICS devices, but it´s not as bulletproof as the ICS solution and it´s BETA status. Better try the Market tag option! This will delete all previous stored data on the tag!</string>
+    <string name="sp_add_battery_">"Add Battery trigger"</string>
+    <string name="sp_add_bt">"Add Bluetooth trigger"</string>
+    <string name="sp_add_dummy">"Add Manual trigger"</string>
+    <string name="sp_add_ssid">Add new SSID</string>
+    <string name="sp_add_wifi_">"Add Wifi trigger"</string>
+    <string name="sp_Airplane">Airplane mode</string>
+    <string name="sp_alarm">Set alarm</string>
+    <string name="sp_alarmtimer">Set alarm in x min</string>
+    <string name="sp_auto_rotate">Auto Rotate</string>
+    <string name="sp_auto_sync">Auto Sync</string>
+    <string name="sp_auto">AUTO</string>
+    <string name="sp_battery_low">Battery LOW</string>
+    <string name="sp_battery_ok">Battery OK</string>
+    <string name="sp_brightness">Brightness</string>
+    <string name="sp_browse">Website</string>
+    <string name="sp_BT_device">Connect BT device</string>
+    <string name="sp_BT_discoverability">Bluetooth discoverability</string>
+    <string name="sp_BT">Bluetooth</string>
+    <string name="sp_Calendar">Calendar entry (ICS 4.x)</string>
+    <string name="sp_call">Call (Plugin)</string>
+    <string name="sp_carmode">Car mode</string>
+    <string name="sp_close_app">Close app</string>
+    <string name="sp_connect_ssid">Connect WiFi SSID</string>
+    <string name="sp_dial">Dial</string>
+    <string name="sp_displaytimeout">Display timeout</string>
+    <string name="sp_dp_timeout_0">ASAP (not official supported)</string>
+    <string name="sp_dp_timeout_1">15 seconds</string>
+    <string name="sp_dp_timeout_2">30 seconds</string>
+    <string name="sp_dp_timeout_3">1 minute</string>
+    <string name="sp_dp_timeout_4">2 minutes</string>
+    <string name="sp_dp_timeout_5">5 minutes</string>
+    <string name="sp_dp_timeout_6">10 minutes</string>
+    <string name="sp_dp_timeout_7">30 minutes</string>
+    <string name="sp_ffw">Fast Forward</string>
+    <string name="sp_gps">GPS (Plugin + Root)</string>
+    <string name="sp_gr_calendar">Calendar / Alarm</string>
+    <string name="sp_gr_lab">Lab</string>
+    <string name="sp_gr_launch">Start / Launch</string>
+    <string name="sp_gr_misc">Misc</string>
+    <string name="sp_gr_phone">Phone</string>
+    <string name="sp_gr_settings">Device settings</string>
+    <string name="sp_gr_wireless">Wireless / Network</string>
+    <string name="sp_home">Show homescreen</string>
+    <string name="sp_hotspot">WiFi Hotspot</string>
+    <string name="sp_Launch_app_activity">Start activity</string>
+    <string name="sp_Launch_Tasker_Task">Tasker task</string>
+    <string name="sp_Launcher">Start app</string>
+    <string name="sp_LOCATION_MODE_BATTERY_SAVING">BATTERY SAVING</string>
+    <string name="sp_LOCATION_MODE_HIGH_ACCURACY">HIGH ACCURACY</string>
+    <string name="sp_LOCATION_MODE_OFF">OFF</string>
+    <string name="sp_location_new_gps">Location (GPS)(Root)</string>
+    <string name="sp_LocationAccess">Network location</string>
+    <string name="sp_Mediabutton">Music player</string>
+    <string name="sp_mobile_data">Mobile Data</string>
+    <string name="sp_nav">Navigation</string>
+    <string name="sp_next">Next</string>
+    <string name="sp_nfc">NFC</string>
+    <string name="sp_normal">Normal</string>
+    <string name="sp_nothing">Do nothing</string>
+    <string name="sp_off">OFF</string>
+    <string name="sp_on_silent">ON Silent</string>
+    <string name="sp_on">ON</string>
+    <string name="sp_pause">Pause (HC 3.x req.)</string>
+    <string name="sp_play">Play (HC 3.x req.)</string>
+    <string name="sp_playpause">Toggle Play (DEFAULT)</string>
+    <string name="sp_Popup">Show pop-up</string>
+    <string name="sp_prev">Previous</string>
+    <string name="sp_retag_broadcast">ReTag Broadcast</string>
+    <string name="sp_rew">Rewind</string>
+    <string name="sp_Ringer">Ringer mode</string>
+    <string name="sp_run_setcycle">Set cycle</string>
+    <string name="sp_runSecretCode">Run secret code</string>
+    <string name="sp_say_time">Speak current time (EN)</string>
+    <string name="sp_SENSORS_ONLY">SENSORS ONLY</string>
+    <string name="sp_set_alarm_tone">Set alarm tone</string>
+    <string name="sp_set_notification_tone">Set notification tone</string>
+    <string name="sp_set_ringtone">Set ringtone</string>
+    <string name="sp_setALarmVolume">Set alarm volume</string>
+    <string name="sp_setMusicVolume">Set music volume</string>
+    <string name="sp_setRingerVolume">Set ringer volume</string>
+    <string name="sp_silent">Silent</string>
+    <string name="sp_stay_on_0">Never</string>
+    <string name="sp_stay_on_1">AC</string>
+    <string name="sp_stay_on_2">USB</string>
+    <string name="sp_stay_on_3">AC and USB</string>
+    <string name="sp_stay_on_whileLoading">Stay ON while charging</string>
+    <string name="sp_stop">Stop</string>
+    <string name="sp_tasker_advanced">Tasker Task (advanced)</string>
+    <string name="sp_template_tag">Template</string>
+    <string name="sp_TexttoSpeech">TexttoSpeech</string>
+    <string name="sp_Timestamp">Timestamp (ICS 4.x + Plugin)</string>
+    <string name="sp_toggle_silent">TOGGLE Silent</string>
+    <string name="sp_toggle">TOGGLE</string>
+    <string name="sp_uri">Run URI</string>
+    <string name="sp_vibrate">Vibrate</string>
+    <string name="sp_Wait">Wait</string>
+    <string name="sp_wlan">WLan</string>
+    <string name="special_tag">Write special NFC ReTAG tag</string>
+    <string name="sreen_off_mode_lost_tags_hl">Support screen off mode</string>
+    <string name="sreen_off_mode_lost_tags_txt">Tag Lost, doesn´t fire when screen goes off in nfc screen off mode (NFC ON while locked AND screen ON)</string>
+    <string name="ssid_hint">Please add SSID</string>
+    <string name="SSID_txt">SSID</string>
+    <string name="tag_already_saved_uid">"TAG already saved! UID: "</string>
+    <string name="tag_details">TAG DETAILS</string>
+    <string name="tag_detected">"Tag detected!  "</string>
+    <string name="tag_icon">Tag icon</string>
+    <string name="tag_import_hl">Tap a tag to IMPORT activities from NFC ReTAG activity tag!</string>
+    <string name="tag_is_not_formatable">Tag is not formatable or already Ndef formated!</string>
+    <string name="tag_is_write_protected_blocked">Tag is write protected, blocked or not formated! Nothing done! You can try to format the tag, if error persists!</string>
+    <string name="tag_is_write_protected_nothing_done">Tag is write protected! Nothing done!</string>
+    <string name="tag_is_write_protected">Tag is write protected or blocked! Nothing done!</string>
+    <string name="tag_name_add_name">Tag name</string>
+    <string name="tag_name_hl">"Tag: "</string>
+    <string name="tag_name">Tag name</string>
+    <string name="tag_not_formatable_nothing_done">Tag not formatable! Nothing done!</string>
+    <string name="tag_write_hl">Tap a tag to write activities to tag (optional)</string>
+    <string name="task_action">Task/ Action</string>
+    <string name="Tasker_fallback_txt">Activate manual input for Tasker tasks. For cases when Tasker list disappears without saving the task!</string>
+    <string name="Tasker_fallback">Enable Tasker fallback</string>
+    <string name="tasker_task">Tasker Task</string>
+    <string name="tech_details_dialog">Tech</string>
+    <string name="template_activity_not_allowed">Template activity not allowed within activity tag or beam (activity skipped!)</string>
+    <string name="template_activity">Template activity</string>
+    <string name="template_name">Template name</string>
+    <string name="template_saved">Template saved!</string>
+    <string name="template_tag_add_error">Sorry, you could not add template activities to templates due to possible circular references!</string>
+    <string name="template">TEMPLATE</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="this_free_version_has_limit_of_re_used_tags">This free version has a tag limit.\n\nTag limit: 4x NFC tags (incl. Manual) + 2 additional triggers (e.g. 1x Wifi + 1x Battery)\n\nOK, we let you add another NFC tag, but that´s it for the free version!\n\nGo and get the PRO version if you need more tags and triggers!</string>
+    <string name="this_will_delete_all_entries_in_the_log">This will delete all entries in the log.</string>
+    <string name="this_will_delete_all_previous_stored_data_on_the_tag">This will delete all previous stored data on the tag!</string>
+    <string name="this_will_format_the_tag_all_data_will_be_deleted">This will format the tag. All data will be deleted!</string>
+    <string name="this_will_import_an_activity_tag_as_template">This will import an activity tag as template!</string>
+    <string name="this_will_override_all_previous_stored_data_on_the_tag">This will override all previous stored data on the tag!</string>
+    <string name="timestamp_txt">Configure timestamp title prefix (via Expert Plugin)</string>
+    <string name="timestamp">Timestamp title</string>
+    <string name="title_AA_plugin">Expert Plugin</string>
+    <string name="title_and_uid_are_empty">" Title AND UID are empty! Please add a title or an UID!"</string>
+    <string name="title_details_dialog">Title</string>
+    <string name="title_is_empty">" Title is empty! Please add a template title!"</string>
+    <string name="title">Tag name</string>
+    <string name="to_configure_the_wifi_network_please_use_the_standard_wifi_settings_">To configure the wifi network, please use the standard wifi settings.</string>
+    <string name="to_configure_the_wifi_network">To configure the wifi network, please use the standard wifi settings.</string>
+    <string name="to"> to </string>
+    <string name="tts_error">Sorry! Text To Speech failed&#8230;</string>
+    <string name="type_details_dialog">Type</string>
+    <string name="uid_details_dialog">UID</string>
+    <string name="uid_in_tasker_uid">in Tasker: \u0025uid </string>
+    <string name="uid_toast">UID</string>
+    <string name="uid">Tag UID</string>
+    <string name="unlicensed_dialog_body">NFC ReTAG PRO: This application is not licensed or can not connect to check the license. Check your connection, purchase it from Google Play or try the FREE version.</string>
+    <string name="unlicensed_dialog_title">Application not licensed</string>
+    <string name="update_plugin">Update Plugin</string>
+    <string name="update_repair_db_please_choose_modus">Update/Repair DB: Please choose modus</string>
+    <string name="volume_text_hl">Volume</string>
+    <string name="warning">WARNING</string>
+    <string name="welcome_pro">Welcome PRO</string>
+    <string name="why_writing_tags">Why writing tags?</string>
+    <string name="wifi_disabled_please_enable_wifi_first">Wifi disabled. Wifi must be enabled to get the available networks.</string>
+    <string name="wifi_disabled">Wifi disabled</string>
+    <string name="wifi_hotspot_beta_feature">WiFi HOTSPOT = BETA feature!</string>
+    <string name="wifi_list_not_accessible_please_enable_wifi_first">Wifi list not accessible, please enable wifi first!</string>
+    <string name="wifi_settings_not_available_">WiFi Settings NOT available!</string>
+    <string name="wifi_trigger">Add Wifi trigger</string>
+    <string name="write_error_nothing_done_fallback">Write error! Nothing done. Please check, if tag has enough writeable memory. Try an other write option (fallback = smallest)!</string>
+    <string name="write_error_nothing_done_try_again">Write error! Nothing done. Try again!</string>
+    <string name="Write_sp_Tag_txt">Tag forces device to open NFC ReTAG when this tag is detected!</string>
+    <string name="Write_sp_Tag">Write special NFC ReTAG tag</string>
+    <string name="Write_Tag">Write Tag</string>
+    <string name="you_can_only_delete_the_last_cycle">You can only delete the LAST cycle (>1). Please navigate to the last cycle.</string>
+    <string name="add_activity">Activity</string>
+    
+ 
+    
+
+    <string-array name="smarttag_array">
+        <item>"Blue"</item>
+        <item>"Red"</item>
+        <item>"Black"</item>
+        <item>"White"</item>
+        <item>"Grey (NEW)"</item>
+        <item>"Orange (NEW)"</item>
+        <item>"Purple (NEW)"</item>
+        <item>"Green (NEW)"</item>
+        <item>"Favourite</item>
+    </string-array>
+    
+    <string-array name="bt_discoverability">
+        <item>"2 minutes"</item>
+        <item>"5 minutes"</item>
+        <item>"1 hour"</item>
+        <item>"Always discoverable"</item>
+    </string-array>
+    <string-array name="repair_array">
+        <item>Light (DEFAULT!)</item>
+        <item>Medium</item>
+        <item>Full DB wipe!</item>
+    </string-array>
+
+    <string name="help_text1">"NFC ReTAG\n\n
+***NEW: Version 2.7 added Wifi and Battery triggers***\n
+ReUse/ReCyle write protected NFC tags such as hotel key-cards, access badges,  price tags, skicards, key fobs etc. &#8230;\n
+You can use this app to associate multiple functions (e.g. enable Wlan, start navigation to ZXY, toggle Bluetooth, launch any installed app, call a phone number etc.) to a specific NFC Tag or trigger via an app internal database.\n
+This app does not write or change any NFC tags (except you want to write a special NFC ReTAG tag for better dispatching)!\n\n
+
+Help, full changelog and support: http://forum.xda-developers.com/showthread.php?t=1477138\n\n
+
+New Features:\n
+Update 2.8 (2.8.x = fixes)
+* NEW Bluetooth trigger
+* Set Cycle activity
+* Android 4.4 support
+* Android 4.4 Location activity
+* Bug fixes  
+
+Update 2.7 (2.7.x = fixes)
+* NEW Wifi and Battery triggers
+* NEW Activities: Close app, Toggle NFC Setting, Location Access, URI
+* Log table for activities
+* Improved receiver handling  
+* And many additional improvements, tweaks and bugfixes   
+
+An ad supported free version (with limited number of tags and triggers) and an unlimited ad-free (PRO) version is available. Please check if this app works on your phone via the free version before downloading the pro version.\n\n
+Hint: Some security related NFC Tags (e.g. in passports) change their ID on every read attempt. This app will not work with such tags.\n\n" </string>
+
+    <string name="new_text1">"Update 2.8 (2.8.x = fixes)
+* NEW Bluetooth trigger
+* Set Cycle activity
+* Android 4.4 support
+* Android 4.4 Location activity
+* Bug fixes
+
+Update 2.7 (2.7.x = fixes)
+* NEW Wifi and Battery triggers
+* NEW Activities (plugin 1.3): Close app, Toggle NFC Setting, Location Access, URI
+* Log table for activities
+* Improved receiver handling  
+* And many additional improvements, tweaks and bugfixes
+
+Full Changelog: http://forum.xda-developers.com/showthread.php?t=1477138 </string>
+
+    <string name="beam_text1">Beam your tag cycle!\n\nSince NFC ReTag version 2.2 you can beam your tag cycle to other android devices with NFC ReTag installed (android 4.x required!)\n\n
+"How to beam your tag cycle:
+- First enable android beam (-> settings) on both devices &#8230;\n
+- Be aware, that standard nfc will only work when device is not locked and screen is ON.\n
+- Open this NFC ReTag tag edit screen on the sending device and choose the tag cycle for beaming \n
+- Tap the devices together with their "nfc sweet spot" &#8230; -> you should hear the nfc sound AND the screen view should shrink and a message "touch to beam" should appear.\n
+- Touch the shrunk screen view without losing the nfc connection and that´s it!&#8230; \n\n
+Hint: Via NFC ReTag settings, you could enable/disable the beam receiver on the receiving device. For importing beamed tag cycles as template, you must open the "Import activity tag as template" screen on the receiving device."\n\n</string>
+  
+    <string name="write_activitytag_text1">	Why writing tags?\n\nWith NFC ReTag  you don´t have to write anything on your tag. Your activities are saved in an app-internal database on your device (-> Does NOT send ANY data to the net!). The app reads only the ID of the tag and triggers the linked activities.
+	This concept has a lot of advantages, like the use of write protected tags, faster tag processing, an unlimited number of activities per tag (without size restrictions) and the possibility to use some cool features e.g. the tag cycles.
+	\n\nNevertheless, NFC ReTag allows you to write tags (of course, writeable tags required!):
+	\n\n- Write special NFC ReTag tag (via more-Button): Better tag dispatching (only short info on the tag, no activities on the tag, RECOMMENDED!)
+	\n\n- Write NFC ReTag activity tag (via Edit tag): Activities written on tag (number of activities depends on tag size, no cycles, database independent, works on every device with NFC ReTag installed, import of NFC ReTag activity tags available)
+	\n\n- Write smarttag for sony devices (via more-Button): Write smarttags (Blue, Green etc.)
+	\n\n- Format as NDEF tag (via more-Button): NDEF format option for NOT (pre-)formated tags
+	\n\nBottom line: With NFC ReTag you could combine the advantages of both concepts&#8230; 
+	\nSo, why not? ;-)
+	\n\nHint:You could shrink the necessary tagsize, if you want to write an activity tag, created before the 2.1 update, by simply re-attaching the [Start app] activities!
+	\n\n\nHave fun!\n\n\n</string>
+  
+ <string name="placeholder_hint_txt">"Since NFC ReTag version 2.5 you could use placeholders within all text parameters to let your activities replace the placeholders at runtime.\n
+Available Placeholders:
+
+               \n<b>[%UID]</b>= UID
+               \n<b>[%RID]</b>= ReTag ID
+               \n<b>[%CYC]</b>= Current Cycle
+               \n<b>[%AID]</b>= Android ID
+               \n<b>[%TIM]</b>= Current Time (hour:minute)
+               \n<b>[%DAT]</b>= Current Date (yyyy-mm-dd)
+               
+\n\nYou could deactivate this function via settings. The ReTag ID is in most cases identical with the UID, but not always! Be aware that devices with Broadcom NFC chip (e.g. Nexus 4 and Nexus 10), doesn´t support mifare classic 1k tags, therefore the mifare UID could not be correctly parsed with those device and tag combinations. In this cases, and <b>ONLY</b> in this cases, you could try the [%UID_M] placeholder."</string>
+   
+    <string name="help_tag_version">"Since NFC ReTag version 2.6 we added additional write options for <b>Special NFC ReTag tags</b> and <b>Activity tags</b>. The Android NFC dispatching system is complex and powerful, finding the right kind of write option is always a trade-off between required tag space, bulletproof dispatching and compatibility.\n\n
+Depending on your personal needs, your available tag space and your Android version (Version tags require Android 4.+), different concepts could be the right choice for you:\n\n                      
+* <b>Advanced Version Tag:</b> Best choice, if tag space doesn´t matter and you want to use it (e.g. sharing WiFi credentials with your friends) with the PRO and FREE version (Bulletproof dispatching, biggest tag space).\n\n        
+* <b>Market Tag: </b> Best choice, if tag space matters and you want as much as compatibility (FREE/PRO) as possible (Strong tag dispatching, small tag space).\n\n          
+* <b>Version Tag:</b> Best choice, if you want to use the tag only personally with the FREE <b>OR</b> PRO version. (Bulletproof dispatching, medium tag space).\n\n            
+* <b>Fallback Tag:</b> Smallest Tag space, only recommended as fallback with very small tag space available (Weak dispatching, smallest tag space required).\n\n"</string>
+
+  <!--   //v19 -->
+    <string name="sp_LocationAccess">Network location (deprecated 4.4+)</string>
+    <string name="sp_gps">GPS (deprecated 4.4+)</string>
+  <!--   // /v19 -->
+
+</resources>
