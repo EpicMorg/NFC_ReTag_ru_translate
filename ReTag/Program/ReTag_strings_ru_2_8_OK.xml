@@ -221,7 +221,7 @@
     <string name="new_tag_detected_id_">"Обнаружен НОВЫЙ тег! ID: "</string>
     <string name="next_cycle_details_dialog">Следующий цикл</string>
     <string name="next">Далее</string>
-    <string name="nfc_disabled_please_enable_nfc_first">NFC выключен! Пожалуйста, для начала включите NFC модуль!</string>
+    <string name="nfc_disabled_please_enable_nfc_first">NFC отключен! Пожалуйста, для начала включите NFC модуль!</string>
     <string name="nfc_disabled">NFC отключен</string>
     <string name="nfc_retag_activity_tag_or_beam">ReTag: Инфо (ttb)</string>
     <string name="nfc_retag_db_repair_colum_added">NFC ReTAG: БД восстановлена: столбец добавлен: </string>
