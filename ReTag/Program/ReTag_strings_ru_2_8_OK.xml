@@ -280,8 +280,8 @@
     <string name="rate_button">Оценить приложение</string>
     <string name="rb_aar_tag_advanced">Рек. Версия тега (По умолчанию!)</string>
     <string name="rb_aar_tag">Версия тега (БЕСПЛАТНАЯ или PRO)</string>
-    <string name="rb_write_tag_fallback">Fallback tag (only fallback)</string>
-    <string name="rb_write_vers_independent_tag">Market tag (Smaller!)</string>
+    <string name="rb_write_tag_fallback">Резервные теги (только резерв!)</string>
+    <string name="rb_write_vers_independent_tag">Тег маркета (Меньше!)</string>
     <string name="receiver_activity_tags_txt">Catch NFC ReTag Activity tags and Activity beam.</string>
     <string name="receiver_activity_tags">Activity tags and Beam</string>
     <string name="receiver_battery_tags_txt">Catch battery triggers (beta).</string>
