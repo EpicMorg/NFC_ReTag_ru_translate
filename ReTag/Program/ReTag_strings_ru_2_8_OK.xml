@@ -229,10 +229,10 @@
     <string name="nfc_retag_db_repair_tables_created">NFC ReTAG: БД восстановлена: таблицы созданы.</string>
     <string name="nfc_retag_error_import_file_not_found">NFC ReTAG: Ошибка! Не найден файл для импорта.</string>
     <string name="nfc_retag_error_while_creating_template">NFC ReTAG: Ошибка при создании шаблона!</string>
-    <string name="nfc_retag_expert_plugin_is_installed_but_secsettings_not_available">NFC ReTag Expert Plugin is installed BUT SecSettings NOT available!</string>
-    <string name="nfc_retag_import_done">NFC ReTAG: Import done!</string>
-    <string name="nfc_retag_sorry_no_activity_saved_on_tag">NFC ReTAG: Sorry! No activity saved on tag!</string>
-    <string name="nfc_retag_update_data_done">NFC ReTAG: update data done.</string>
+    <string name="nfc_retag_expert_plugin_is_installed_but_secsettings_not_available">Плагин Эксперт-режим для NFC Retag установлен, НО SecSettings НЕдоступны!</string>
+    <string name="nfc_retag_import_done">NFC ReTAG: Импорт завершен!</string>
+    <string name="nfc_retag_sorry_no_activity_saved_on_tag">NFC ReTAG: Простите! Нет активити, сохраненных на тег!</string>
+    <string name="nfc_retag_update_data_done">NFC ReTAG: обновление информации завершено.</string>
     <string name="nfc_retag">NFC ReTAG</string>
     <string name="no_activity_toast">NFC ReTAG: Sorry! No activity saved on tag or template for template activity not found!</string>
     <string name="no_activity">NO ACTIVITY</string>
