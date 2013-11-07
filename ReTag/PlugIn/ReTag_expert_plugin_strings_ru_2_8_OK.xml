@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 Sascha Fassbender -->
+<resources>
+
+  
+    <string name="airlplane_mode">Режим полета</string>
+    <string name="airplane_mode_parameter_missing">Режим полета: параметр отсутствует</string>
+    <string name="call">Вызов</string>
+    <string name="cancel">Отмена</string>
+    <string name="close_app">Закрыть приложение</string>
+    <string name="gps">GPS</string>
+    <string name="LocationAccess">Выбор расположения в сети</string>
+    <string name="manual_request">Запрос вручную</string>
+    <string name="new_4_4_location">Навигация (GPS)(4.4+)</string>
+    <string name="nfc_retag_expert_plugin_root_request_failed">NFC ReTag: Эксперт плагин: Root права не установлены!</string>
+    <string name="nfc">NFC</string>
+    <string name="parameter_missing">Ошибка: к примеру, параметр отсутствует</string>
+    <string name="permission_description">NFC ReTag разрешения для плагина. Это внутреннее NFC ReTag разрешения, для безопасной связи с NFC ReTag плагинами.</string>
+    <string name="plug_in_is_installed_but_root_request_failed">"Плагин установлен, не удалось получить запрос на Root (Super User не найден)! Пожалуйста, проверьте, ваше устройство с root правами.\n\n Root прав для: "</string>
+    <string name="plug_in_is_installed_su_seems_available_but_root_request_failed">"Плагин установлен, Super User кажется установлен, не удалось выполнить запрос на Root права! Кажется, что ваше приложение SU (Например: SuperUser, SuperSU) заблокировал запрос. Пожалуйста, включите Root для плагина.\n\nЗапрос Root прав для: "</string>
+    <string name="request_root">Запросить Root права снова</string>
+    <string name="run_timestamp_error_plugin">Запуск отметки времени: Ошибка плагина</string>
+    <string name="stay_on_while_charging">На время зарядки</string>
+    <string name="timestamp_retag_default">"Отметка времени ReTAG: "</string>
+    <string name="timestamp">Отметка времени</string>
+
+
+</resources>

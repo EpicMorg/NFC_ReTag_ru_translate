@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 Sascha Fassbender -->
+<resources>
+
+  
+    <string name="airlplane_mode">Airlplane mode</string>
+    <string name="airplane_mode_parameter_missing">Airplane mode: parameter missing</string>
+    <string name="call">Call</string>
+    <string name="cancel">Cancel</string>
+    <string name="close_app">Close app</string>
+    <string name="gps">GPS</string>
+    <string name="LocationAccess">Network location</string>
+    <string name="manual_request">Manual request</string>
+    <string name="new_4_4_location">Location (GPS)(4.4+)</string>
+    <string name="nfc_retag_expert_plugin_root_request_failed">NFC ReTag: Expert Plugin: Root request failed!</string>
+    <string name="nfc">NFC</string>
+    <string name="parameter_missing">Error: e.g. parameter missing</string>
+    <string name="permission_description">NFC ReTag PlugIn Permission. This is an internal NFC ReTag permission, for secure communication with NFC ReTag plug-ins.</string>
+    <string name="plug_in_is_installed_but_root_request_failed">"Plug-in is installed, but Root request failed (SU NOT FOUND)! Please check if your device is properly rooted.\n\nRoot request for: "</string>
+    <string name="plug_in_is_installed_su_seems_available_but_root_request_failed">"Plug-in is installed, SU seems available, but Root request failed! Seems that your SU app (e.g. SuperUser, SuperSU) blocked the request. Please enable root access for the plug-in.\n\nRoot request for: "</string>
+    <string name="request_root">Request ROOT again</string>
+    <string name="run_timestamp_error_plugin">Run timestamp: ERROR plugin</string>
+    <string name="stay_on_while_charging">Stay ON while charging</string>
+    <string name="timestamp_retag_default">"Timestamp ReTAG: "</string>
+    <string name="timestamp">Timestamp</string>
+
+
+</resources>
