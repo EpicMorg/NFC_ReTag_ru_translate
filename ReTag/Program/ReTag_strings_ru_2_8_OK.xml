@@ -303,10 +303,10 @@
     <string name="reset_cycle">Сброс цикла</string>
     <string name="reset_settings_txt">Сбрасывает все NFC ReTag настройки, но оставляет базу данных. Вы можете сбросить базу данных через настройки базы данных.</string>
     <string name="reset_settings">Сбросить Настройки</string>
-    <string name="retag_broadcast">ReTag Broadcast</string>
-    <string name="retag_format_hl">Tap a tag to FORMAT a tag &#8230;</string>
-    <string name="retag_support_xposed_tag_lost_hl">Tag Lost support!</string>
-    <string name="retag_support_xposed_tag_lost_txt">Support tag lost message from Xposed NFCLockScreenOffEnabler module!</string>
+    <string name="retag_broadcast">Широковещательный ReTag</string>
+    <string name="retag_format_hl">Коснитесь тега для ФОРМАТИРОВАНИЯ тега &#8230;</string>
+    <string name="retag_support_xposed_tag_lost_hl">Тег Потерял поддержку!</string>
+    <string name="retag_support_xposed_tag_lost_txt">Поддержка сообщений о потеряных метках с помощью Xposed NFCLockScreenOffEnabler модуля!</string>
     <string name="retag_write_hl">Tap a tag to write a special NFC ReTAG tag &#8230;</string>
     <string name="retagid_details_dialog">ReTag ID</string>
     <string name="rid_in_tasker_rid">in Tasker: \u0025rid </string>
