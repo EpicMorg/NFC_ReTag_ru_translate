@@ -329,11 +329,11 @@
     <string name="smarttag_write_hl">Коснитесь тега для записи smarttag для sony устройств &#8230;Для начала выберите цвет!</string>
     <string name="smarttag">Записать smarttag для sony устройств</string>
     <string name="sorry_android_4_0andup">Простите, активити не поддерживается на Android &lt; 4.0+</string>
-    <string name="sorry_it_seems_that_the_3rd_party_app_tasker_is_not_installed">Простите, it seems that the 3rd party app Tasker is not installed!</string>
-    <string name="sorry_no_nfc_adapter_detected">Простите no NFC adapter detected! NFC functions will not work! But you can use Wifi and Battery triggers and play around with the Manual tags.</string>
-    <string name="sorry_no_valid_uid_detected">Простите no valid UID detected! Please add an valid and unique UID before simulating tags.</string>
-    <string name="sorry_something_is_wrong_with_your_tag_database">Простите something is wrong with your tag database. More entries as expected (max. 6 within FREE version).Please clear app data (-> delete tag database)!</string>
-    <string name="sorry_tag_limit_reached">Простите, tag limit for FREE version reached.\n\nTag limit: 4x NFC tags (incl. Manual) + 2 additional triggers (e.g. 1x Wifi + 1x Battery)\n\nPlease consider the PRO version, if you need more tags and triggers!</string>
+    <string name="sorry_it_seems_that_the_3rd_party_app_tasker_is_not_installed">Простите, складывается впеачатление, что приложение третьих лиц, Tasker - не установлено!</string>
+    <string name="sorry_no_nfc_adapter_detected">Простите, но NFC адаптер не обраружен! NFC функции не работают! Но Вы можете использовать триггеры Wi-Fi и Батареи для игры с Произвольными тегами.</string>
+    <string name="sorry_no_valid_uid_detected">Простите, но валидный UID не обнаружен! Пожалуйста, добавьте валидный и уникальный UID перед симулированием тегов.</string>
+    <string name="sorry_something_is_wrong_with_your_tag_database">Простите, что-то случилось с вашей базой данных. Большая часть записей кончилась (max. 6 используя БЕСПЛАТНУЮ версию).Пожалуйста, почистите данные приложения (-> удалить тег базы данных)!</string>
+    <string name="sorry_tag_limit_reached">Простите, лимит тегов БЕСПЛАТНОЙ версии иссяк.\n\nЛимит тегов: 4x NFC тега (вкл. Пользовательские) + 2 дополнительных триггера (такие как 1x Wi-Fi + 1x Батареи)\n\nПожалуйста, воспользуйтесь PRO версией, если вам необходимо использовать больше тегов и триггеров!</string>
     <string name="sorry_this_feature_needs_android_4_0">Простите, this feature needs android 4.0 ICS! There is a workaround for pre ICS devices, but it´s not as bulletproof as the ICS solution and it´s BETA status. Better try the Market tag option! This will delete all previous stored data on the tag!</string>
     <string name="sp_add_battery_">"Add Battery trigger"</string>
     <string name="sp_add_bt">"Add Bluetooth trigger"</string>
