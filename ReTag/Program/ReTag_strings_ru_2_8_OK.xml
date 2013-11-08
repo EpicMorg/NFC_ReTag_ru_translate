@@ -284,8 +284,8 @@
     <string name="rb_write_vers_independent_tag">Тег маркета (Меньше!)</string>
     <string name="receiver_activity_tags_txt">Catch NFC ReTag Activity tags and Activity beam.</string>
     <string name="receiver_activity_tags">Activity tags and Beam</string>
-    <string name="receiver_battery_tags_txt">Catch battery triggers (beta).</string>
-    <string name="receiver_battery_tags">Battery trigger</string>
+    <string name="receiver_battery_tags_txt">Подхватить триггеры батареи (beta).</string>
+    <string name="receiver_battery_tags">Триггер батареи</string>
     <string name="receiver_bt_tags_txt">Catch Bluetooth triggers (beta).</string>
     <string name="receiver_bt_tags">Bluetooth trigger</string>
     <string name="receiver_special_ReTag_txt">Catch special NFC ReTag tags (Default).</string>
