@@ -307,7 +307,7 @@
     <string name="retag_format_hl">Коснитесь тега для ФОРМАТИРОВАНИЯ тега &#8230;</string>
     <string name="retag_support_xposed_tag_lost_hl">Тег Потерял поддержку!</string>
     <string name="retag_support_xposed_tag_lost_txt">Поддержка сообщений о потеряных метках с помощью Xposed NFCLockScreenOffEnabler модуля!</string>
-    <string name="retag_write_hl">Коснитесь тега лоя записи специального NFC ReTAG тега &#8230;</string>
+    <string name="retag_write_hl">Коснитесь тега для записи специального NFC ReTAG тега &#8230;</string>
     <string name="retagid_details_dialog">ReTag ID</string>
     <string name="rid_in_tasker_rid">в Tasker: \u0025rid </string>
     <string name="ringer_volume_set">Громкость звонка установлена из </string>
