@@ -213,7 +213,7 @@
     <string name="More_Advanced_Settings">Расширенные настройки</string>
     <string name="more">больше</string>
     <string name="music_volume_set">Громкость музыки установить с </string>
-    <string name="Mute_popups_txt">Это приглушает \&apos;Обнаруженная метка\&apos; всплывающие окна с информационной активити</string>
+    <string name="Mute_popups_txt">Это приглушает \&apos;Обнаруженную метку\&apos; всплывающие окна с информационной активити</string>
     <string name="Mute_popups">Отключить всплывающие окна</string>
     <string name="name_or_uid_empty">"Имя или UID пусты! Пожалуйста, добавьте Метку имени или UID первыми!"</string>
     <string name="name_toast">Имя</string>
