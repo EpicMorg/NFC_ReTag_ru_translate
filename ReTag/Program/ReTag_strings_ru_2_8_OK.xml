@@ -7,28 +7,28 @@
  
     
     <string name="add_any_uri">Добавить ссылку (например: mailto:, file:, geo:, http:)</string>
-    <string name="add_non_nfc_tags">Add NON NFC tags (NFC tags = Just scan!)</string>
+    <string name="add_non_nfc_tags">Не добавлять NFC метки (Просто сканировать!)</string>
     <string name="add_pop_up_text">Добавить всплывающий текст</string>
     <string name="add_ssid">Добавить SSID</string>
     <string name="add_tag">Новый тригер</string>
     <string name="add_text_to_speech_e_g_hello_world">Добавить текста в речь(Пример: Привет мир)</string>
-    <string name="add_timestamp_title">Add timestamp title</string>
-    <string name="add_title_for_calendar_entry">Add title for calendar entry</string>
-    <string name="add_title_prefix">Add title prefix</string>
-    <string name="add_uri">"Add URI (e.g. file:your_filepath or mailto:your@mail.com?subject=test 1234&amp;body=test 5678)"</string>
+    <string name="add_timestamp_title">Добавить название временой метки</string>
+    <string name="add_title_for_calendar_entry">Добавить название для записи календаря</string>
+    <string name="add_title_prefix">Добавить в названии префикс</string>
+    <string name="add_uri">"Добавить ссылку (Пример: file:your_filepath or mailto:your@mail.com?subject=test 1234&amp;body=test 5678)"</string>
     <string name="add_web_adress_e_g_www_google_com_">Добавить веб-адрес (Пример: www.google.com)</string>
     <string name="additional_features">Дополнительные возможности</string>
-    <string name="Advanced_Settings_txt">Shows advanced and database settings for fine tuning and troubleshooting</string>
+    <string name="Advanced_Settings_txt">Показывать расширенные настройки базы данных для тонкой настройки и поиска неисправностей</string>
     <string name="Advanced_Settings">Расширенные настройки</string>
-    <string name="aggressive_mode_txt">Most aggressive NFC catching mode. Try to catch them all.</string>
+    <string name="aggressive_mode_txt">Показывать NFC агресивный режим . Читает почти все метки.</string>
     <string name="aggressive_mode">NFC агресивный режим</string>
     <string name="agree">"Согласиться"</string>
-    <string name="alarm_volume_set">Alarm volume set from </string>
+    <string name="alarm_volume_set">Установить громкость будильника </string>
     <string name="alert_dialog_add">Добавить метку</string>
     <string name="alert_dialog_edit">Редактировать</string>
     <string name="allow">Доступ разрешен!</string>
     <string name="am_pm_support_hl">Сказать время с AM PM</string>
-    <string name="am_pm_support_txt">Support Say time in AM PM</string>
+    <string name="am_pm_support_txt">Поддержка сказать время с AM PM</string>
     <string name="application_error">Ошибка приложения: %1$s</string>
     <string name="askuser_pro">Дорогой пользователь,\n\nспасибо за использование NFC ReTag и покупку платной версии!\n\nМы хотели бы попросить вас оставить отзыв, и оцените это приложение. \n\nЕще раз спасибо и получайте удовольствие! </string>
     <string name="askuser">Дорогой пользователь,\n\nспасибо за использование NFC ReTag!\n\Мы хотели бы попросить вас оставить отзыв, и оцените это приложение. \n\nПожалуйста купите платную версию ;-)\n\nЕще раз спасибо и получайте удовольствие!! </string>
@@ -41,150 +41,150 @@
     <string name="battery_ok">Аккумулятор O(Высокий заряд)</string>
     <string name="battery_trigger">Добавить тригер на аккумулятор</string>
     <string name="beam_ok">BEAM done!</string>
-    <string name="beta_car_mode_implementation">BETA! Car mode implementation depends on your device and rom! BETA!</string>
+    <string name="beta_car_mode_implementation">БЕТА! Реализация авторежима зависит от устройства и ПЗУ! БЕТА!</string>
     <string name="blank"></string>
-    <string name="broadcast_var_lowercase_hl">Lower case ReTag Broadcast variables</string>
-    <string name="broadcast_var_lowercase_txt">Change the ReTag Broadcast variables to lower case (e.g.RETAG_UID/retag_uid). (compatibility mode!)</string>
-    <string name="bt_device_tag">Write standard Bluetooth tag (BETA)</string>
-    <string name="bt_disabled_please_enable_bt_first">Bluetooth disabled. Bluetooth must be enabled to get the saved bluetooth devices.</string>
+    <string name="broadcast_var_lowercase_hl">Нижний регистр переменных ReTag трансляции</string>
+    <string name="broadcast_var_lowercase_txt">Измените переменные ReTag трансляции в нижний регистр (Пример: RETAG_UID/retag_uid).(режим совместимости!)</string>
+    <string name="bt_device_tag">Написать стандартную Bluetooth метку (Бета)</string>
+    <string name="bt_disabled_please_enable_bt_first">Bluetooth отключен. Bluetooth должен быть включен, чтобы получить сохраненные устройства Bluetooth.</string>
     <string name="bt_disabled">Bluetooth отключен</string>
     <string name="bt_settings_not_available">Bluetooth настройки недоступны!</string>
     <string name="bt_trigger">Добавить Bluetooth тригер</string>
     <string name="button_template">Добавить шаблон</string>
     <string name="buy_button">Купить приложение</string>
-    <string name="Calendar_id_txt">Choose calendar ID for timestamp (via Expert Plugin)</string>
-    <string name="Calendar_id">Calendar ID</string>
+    <string name="Calendar_id_txt">Выберите событие календаря для временной печати (С эксперт плагином)</string>
+    <string name="Calendar_id">Событие календаря</string>
     <string name="Calendar">Календарь</string>
-    <string name="CalendarTimestamp_txt">Shows calendar and timestamp settings</string>
-    <string name="CalendarTimestamp">Calendar and Timestamp</string>
+    <string name="CalendarTimestamp_txt">Показать настройки календаря и временной печати</string>
+    <string name="CalendarTimestamp">Календарь и временная печать</string>
     <string name="cancel">Отмена</string>
-    <string name="cb_brightness_dialog">Disable auto and use values</string>
-    <string name="change_activity">Change activity</string>
-    <string name="change_the_homescreen_activity_to_an_other_activity">Change the Homescreen activity to an other activity</string>
-    <string name="change_to_other_activity">Change to other activity?</string>
-    <string name="Check_again_txt">Updates the current status </string>
+    <string name="cb_brightness_dialog">Отключить автояркость</string>
+    <string name="change_activity">Изменение активности</string>
+    <string name="change_the_homescreen_activity_to_an_other_activity">Изменение активности в главном экране на другой вид деятельности</string>
+    <string name="change_to_other_activity">Сменить на другую деятельность?</string>
+    <string name="Check_again_txt">Обновление текущего состояния </string>
     <string name="Check_again">Проверить еще раз</string>
     <string name="check_license">Проверить еще раз</string>
-    <string name="checking_license">Проверка лицензии&#8230;</string>
-    <string name="choose_a_file_to_import">Choose a file to import</string>
-    <string name="choose_a_template_to_add_to_the_current_tag_and_cycle">Choose a template to add to the current tag and cycle</string>
-    <string name="choose_calendar_current_id">"Choose Calendar (current ID="</string>
+    <string name="checking_license">Проверка лицензии...</string>
+    <string name="choose_a_file_to_import">Выберите файл для импорта</string>
+    <string name="choose_a_template_to_add_to_the_current_tag_and_cycle">Выберите шаблон для добавления текущей метки и цикла</string>
+    <string name="choose_calendar_current_id">"Выбрать календарь (текущее событие="</string>
     <string name="confirm">OK</string>
-    <string name="congratulation_activity_tag_written">Congratulation! Activity tag written!</string>
-    <string name="congratulation_nfc_retag_aar_tag_written">Congratulation! Special NFC ReTAG tag written! (version tag)</string>
-    <string name="congratulation_nfc_retag_adv_aar_tag_written">Congratulation! Special NFC ReTAG tag written! (adv. version tag)</string>
-    <string name="congratulation_nfc_retag_tag_written_beta_pre_ics">Congratulation! NFC ReTAG tag written (BETA pre-ICS)!</string>
-    <string name="congratulation_nfc_retag_vers_independent_tag_written">Congratulation! Special NFC ReTAG tag written! (market tag)</string>
-    <string name="congratulation_smallest_nfc_retag_tag_written_fallback">Congratulation! NFC ReTAG tag written (fallback)!</string>
-    <string name="congratulation_smarttag_for_sony_devices_written">Congratulation! Smarttag for sony devices written!</string>
-    <string name="congratulation_tag_formated">Congratulation! Tag formated!</string>
-    <string name="created_details_dialog">Created</string>
-    <string name="custom_parameter">Your variable</string>
-    <string name="cyc_in_tasker_cyc">in Tasker: \u0025cyc </string>
-    <string name="Cycle_hl">Цикл #</string>
+    <string name="congratulation_activity_tag_written">Поздравляем! метка прочитана!</string>
+    <string name="congratulation_nfc_retag_aar_tag_written">Поздравляем! Специальная NFC ReTAG метка прочитана! (Версия метки)</string>
+    <string name="congratulation_nfc_retag_adv_aar_tag_written">Поздравляем! Специальная NFC ReTAG метка прочитана (Рекламная метка)</string>
+    <string name="congratulation_nfc_retag_tag_written_beta_pre_ics">Поздравляем! NFC ReTAG метка прочитана (Бета только до 4.х)!</string>
+    <string name="congratulation_nfc_retag_vers_independent_tag_written">Поздравляем! Специальная NFC ReTAG метка прочитана! (Метка супермаркета)</string>
+    <string name="congratulation_smallest_nfc_retag_tag_written_fallback">Поздравляем! NFC ReTAG метка прочитана (Резерв)!</string>
+    <string name="congratulation_smarttag_for_sony_devices_written">Поздравляем! метка для sony устройств прочитана!</string>
+    <string name="congratulation_tag_formated">Поздравляем! метка отформатирована!</string>
+    <string name="created_details_dialog">Создано</string>
+    <string name="custom_parameter">Ваша переменная</string>
+    <string name="cyc_in_tasker_cyc">В Tasker: \u0025cyc </string>
+    <string name="Cycle_hl">№ Цикл</string>
     <string name="cycle_title">Цикл</string>
     <string name="cycle_toast">Цикл</string>
     <string name="Database">База данных</string>
-    <string name="depends_on_the_media_button_support">Depends on the media button support of your media player! (Default: TOGGLE PLAY)</string>
+    <string name="depends_on_the_media_button_support">Зависит от поддержки медиа кнопки медиаплеера! (По умолчанию: воспроизведение)</string>
     <string name="details">Детали</string>
-    <string name="disables_enables_dispatching_for_tag_lost">Changes the background recognition of lost tags (Root, Xposed Framework and NFCLockScreenOffEnabler module req.!)</string>
-    <string name="disables_enables_dispatching">Receiver changed!</string>
+    <string name="disables_enables_dispatching_for_tag_lost">Измененить фон при потери меток (Root, Xposed Framework и NFCLockScreenOffEnabler module req.!)</string>
+    <string name="disables_enables_dispatching">Ресивер изменен!</string>
     <string name="disclaimer">Отказаться</string>
     <string name="dl_plugin_txt">Загрузить плагин из Google Play</string>
     <string name="dl_plugin">Загрузить плагин</string>
     <string name="do_nothing">Ничего не делать</string>
-    <string name="do_you_want_to_import_your_database">Do you want to import your database from the FREE version?\n\nHINT: Auto backup must be activated in FREE version!\n\nAnd don´t forget to rewrite your special NFC ReTAG tags ;-)</string>
-    <string name="do_you_want_to_save_this_tag_as_a_template">Do you want to save this tag as a template?</string>
-    <string name="don_t_ask_me_again">Don´t ask me again!</string>
-    <string name="dont_add_new_lost_tags_hl">Don´t add tag lost tags!</string>
-    <string name="dont_add_new_lost_tags_txt">Disables the new tag messages if a new lost tag occures!</string>
-    <string name="dont_allow">Sorry no access. Please check your connection!"</string>
-    <string name="Dont_ask_txt">Enable/ disables user dialog for rating the app</string>
-    <string name="Dont_ask">Don´t ask me to rate!</string>
-    <string name="dont_show_again">Don´t show again</string>
-    <string name="Dont_show_alarm_settings_txt">(BETA) Uses official android api (> GB), but even most stock alarm clocks, doesn´t support it. Works best with 3rd party alarm clocks.(BETA) </string>
-    <string name="Dont_show_alarm_settings">Do not show alarm settings</string>
-    <string name="dontask_button">Don´t ask me again!</string>
-    <string name="download_button">Pro Version</string>
+    <string name="do_you_want_to_import_your_database">Вы хотите импортировать базу данных от бесплатной версии?\n\nСовет: Автоматическое резервное копирование должно быть активировано в бесплатной версии!\n\nИ не забудьте переписать ваши специальные NFC метки ReTAG ;-)</string>
+    <string name="do_you_want_to_save_this_tag_as_a_template">Вы хотите, сохранить эту метку в качестве шаблона?</string>
+    <string name="don_t_ask_me_again">Не спрашивать меня снова!</string>
+    <string name="dont_add_new_lost_tags_hl">Не спрашивать меня снова об потеряных меток!</string>
+    <string name="dont_add_new_lost_tags_txt">Отключить сообщения об потеряных меток!</string>
+    <string name="dont_allow">Доступ запрещен. Пожалуйста, проверьте ваше соединение!"</string>
+    <string name="Dont_ask_txt">Включение/выключение об повышения ретинга приложения</string>
+    <string name="Dont_ask">Не спрашивать меня снова чтобы я повысил рейтинг приложения!</string>
+    <string name="dont_show_again">Не спрашивать меня снова!</string>
+    <string name="Dont_show_alarm_settings_txt">(Бета) Использовать официальные Android API (> Гб), но даже мощные процессоры, не поддерживает его. Лучше всего работает с 3-им поколением процесоров.(Бета) </string>
+    <string name="Dont_show_alarm_settings">Не показывать настройки будильника</string>
+    <string name="dontask_button">Не спрашивать меня снова!</string>
+    <string name="download_button">Платная версия</string>
     <string name="download_plugin">Загрузить плагин</string>
-    <string name="Edit_mode_txt">Enables edit mode while app in foreground (= disable automode). Tap tag for edit.</string>
-    <string name="Edit_mode">Enable Edit mode</string>
+    <string name="Edit_mode_txt">Включить режим редактирования, в то время как приложение работает в фоновом режиме (= отключено в автоматическом режиме). Нажмите на метку для редактирования.</string>
+    <string name="Edit_mode">Включить режим редактирования</string>
     <string name="edit_tagname">Редактировать имя метки</string>
     <string name="edit">Редактировать</string>
-    <string name="enable_log_txt">Logs fired tags and triggers in an app internal table.</string>
+    <string name="enable_log_txt">Хранить в логах удаленые метки и тригеры в приложении во внутренней таблице.</string>
     <string name="enable_log">Включить лог</string>
-    <string name="Enables_para_replacement_hl">Включить параметры заполнения</string>
-    <string name="Enables_para_replacement_txt">Enables replacement of placeholder parameters (e.g. [%UID], [%DAT] etc.)</string>
-    <string name="error_insert_template">Error insert template</string>
-    <string name="error_jb_airplane">[Режим полета] activity needs ROOT and Plugin since Jelly Bean 4.2</string>
-    <string name="error_jb_stay_on"> [Stay on while charging] activity needs ROOT and Plugin since Jelly Bean 4.2</string>
-    <string name="error_launch_app">Launch App error! Did you uninstall the specified app?</string>
+    <string name="Enables_para_replacement_hl">Включить настройки автозаполнения</string>
+    <string name="Enables_para_replacement_txt">Включает настройки автозаполнения (Пример: [%UID], [%DAT] и т.д.)</string>
+    <string name="error_insert_template">Ошибка вставки в шаблон</string>
+    <string name="error_jb_airplane">[Режим полета] Требуются Root права и плагин с Jelly Bean 4.2</string>
+    <string name="error_jb_stay_on"> [Режим зарядки] Требуются Root права и плагин с Jelly Bean 4.2</string>
+    <string name="error_launch_app">Запустить приложение с ошибками! Вы Удаляете указанные приложения?</string>
     <string name="error">Ошибка</string>
-    <string name="expert_Plugin_txt">Shows status and settings for the NFC ReTag Expert Plugin  </string>
+    <string name="expert_Plugin_txt">Отображает состояние и настройки для Эксперт плагина NFC ReTag  </string>
     <string name="expert_Plugin">Эксперт плагин  </string>
-    <string name="ExportDB_txt">Export DB to user accessible folder</string>
-    <string name="ExportDB">Export DB</string>
+    <string name="ExportDB_txt">Экспорт БД в указанную пользователем папку</string>
+    <string name="ExportDB">Экспорт БД</string>
     <string name="file">Файл</string>
-    <string name="fire_trigger_when">Fire trigger when</string>
-    <string name="format_error_nothing_done">Format error! Nothing done!</string>
-    <string name="format_tag">Format as NDEF tag (BETA)</string>
+    <string name="fire_trigger_when">Удалить тригер</string>
+    <string name="format_error_nothing_done">Ошибка форматирования! Ничего не сделано!</string>
+    <string name="format_tag">Форматировать как NDEF метку (Бета)</string>
     <string name="get_log">Показать лог</string>
-    <string name="gopro_button">Go PRO</string>
+    <string name="gopro_button">Купить</string>
     <string name="gps">GPS</string>
     <string name="help">Помощь</string>
-    <string name="hint_add_name">Set tag name!</string>
-    <string name="hint_add_optinal_title_for_calendar_entry">HINT: Add optinal title for calendar entry. This activity opens a new calendar entry. You have to add additional information and save it manually.</string>
-    <string name="hint_add_optional_timestamp_title">HINT: Add optional timestamp title</string>
-    <string name="hint_add_pop_up_text">HINT: Add pop up text</string>
-    <string name="hint_add_text_parameter">Please add a text!</string>
-    <string name="hint_add_web_adress">HINT: Add web address (Например: www.google.com). Disable http:// pre-fix via settings.</string>
-    <string name="hint_brightness_dialog">Hint: Sometimes manual refresh of screen required.</string>
-    <string name="hint_custom_parameter_as_stringextra">You can catch your custom parameter via StringExtra RETAG_MYVAR. Broadcast action = </string>
-    <string name="hint_do_not_add_more_than_1_texttospeech">HINT: Do NOT add more than 1 TexttoSpeech activity per tag. Some strange things could happen! Only 1 TexttoSpeech activity per tag supported!</string>
-    <string name="hint_please_add_navigation_destination">HINT: Please add navigation destination (Google maps compatible format-> e.g. 1600 Amphitheatre Parkway Mountain View, CA 94043) or leave blank to start navigation without destination.)</string>
-    <string name="hint_please_add_phone_number">HINT: Please add phone number</string>
-    <string name="hint_please_add_secret_code">HINT: Please add secret code without prefix (*#*#) and suffix (#*#*)\n\ne.g. *#*#4636#*#* = 4636</string>
-    <string name="hint_please_add_time_in_milliseconds">HINT: Please add time in milliseconds (2500 = 2,5 seconds). Please be aware that this activity is, due to the internal handling in android, highly unreliable.</string>
-    <string name="hint_set_alarm_in_x_minutes">HINT: Set Alarm in X minutes. Android standard alarm doesn´t support seconds, so be aware that the alarm time is rounded to the minute!</string>
-    <string name="hint_task_action_parameter">"You could use your custom variable in Tasker via %yvr. "</string>
-    <string name="hint_tasker_fallback_solution">HINT: Tasker fallback solution may be active (change via settings). Please add exact tasker task name manually within the parameter field, watch out for unnecessary blanks!\n\nStill doesn´t work? -> Enable Tasker (on/off button in Tasker UI), check Tasker settings (misc) \'allow external access\', install NFC ReTAG AFTER Tasker (-> re-install NFC ReTAG->don´t forget to backup DB).</string>
-    <string name="hint">hint</string>
-    <string name="hl_receivers">Receivers</string>
-    <string name="HTTP_prefix_txt">Disables the \&apos;http://\&apos; prefix for internet addresse within the browse activity!</string>
-    <string name="HTTP_prefix">Disable HTTP prefix</string>
-    <string name="if_you_have_issues_with_the_tasker_integration">If you have issues with the tasker integration, please try the Tasker fallback solution via settings.</string>
-    <string name="import_done">Import done!</string>
-    <string name="import_tag">Import tag</string>
-    <string name="ImportDB_txt">Import DB. Will delete your current database.</string>
-    <string name="ImportDB">Import DB</string>
-    <string name="importing_a_database_delete_all_entries_in_your_current_database">Importing a database delete all entries in your current database!</string>
-    <string name="info_nfc_retag_beam">INFO: NFC ReTag BEAM</string>
-    <string name="item_loading">Loading&#8230;nothing found so far&#8230;</string>
+    <string name="hint_add_name">Установить имя метки!</string>
+    <string name="hint_add_optinal_title_for_calendar_entry">Совет: Добавьте дополнительное описание, в запись календаря. Это откроет новую запись календаря. Вы должны добавить дополнительную информацию и сохранить ее вручную.</string>
+    <string name="hint_add_optional_timestamp_title">Совет: Добавьте дополнительное описание временной метки</string>
+    <string name="hint_add_pop_up_text">Совет: Добавьте всплывающий текст</string>
+    <string name="hint_add_text_parameter">Пожалуйста, добавьте текст!</string>
+    <string name="hint_add_web_adress">Совет: Добавьте веб-адрес (Например: www.google.com). Отключите http:// префикс в настройках.</string>
+    <string name="hint_brightness_dialog">Совет: Иногда требуется ручное обновления экрана.</string>
+    <string name="hint_custom_parameter_as_stringextra">Вы можете поймать пользовательский параметр через StringExtra RETAG_MYVAR. Трансляция действий = </string>
+    <string name="hint_do_not_add_more_than_1_texttospeech">Совет: Не добавляйте более 1 TexttoSpeech метку. Просто могут произойти странные вещи! Запомните только 1 TexttoSpeech метка поддерживается!</string>
+    <string name="hint_please_add_navigation_destination">Совет: Пожалуйста, добавьте в навигацию  пункт назначения (Карты Google поддерживают такой формат-> Пример: 1600 Amphitheatre Parkway Mountain View, CA 94043) или оставьте поле пустым, чтобы начать навигацию без пунта назначения.)</string>
+    <string name="hint_please_add_phone_number">Совет: Пожалуйста, добавьте номер телефона</string>
+    <string name="hint_please_add_secret_code">Совет: Пожалуйста, добавьте секретный код без префикса (*#*#) и суффикса (#*#*)\n\nПример: *#*#4636#*#* = 4636</string>
+    <string name="hint_please_add_time_in_milliseconds">Совет: Пожалуйста, добавьте время в миллисекундах (2500 = 2,5 секунды). Помните, что эта фунция является, в связи с внутренней обработке в Android, и очень ненадежна.</string>
+    <string name="hint_set_alarm_in_x_minutes">Совет: Установить будильник в минутах X. Android будильник не поддерживает секунд, так что значения, при срабатывания будильника и округляется до минуты!</string>
+    <string name="hint_task_action_parameter">"Вы можете использовать пользовательские переменные в Tasker через %yvr. "</string>
+    <string name="hint_tasker_fallback_solution">Совет: Tasker fallback могут быть активными (это выбирается в настройках). Пожалуйста, добавляйте точное название Tasker задачи вручную в поле параметра, не делайте ненужных пробелов!\n\nЕсли все еще не работает? -> Включить Tasker (on/off кнопку в Tasker UI), проверить настройки в Tasker (в разном) \'разрешить внешний доступ\', установить NFC ReTAG после Tasker (-> переустановить NFC ReTAG->не забудьте сделать резервную копию БД).</string>
+    <string name="hint">Совет</string>
+    <string name="hl_receivers">Ресиверы</string>
+    <string name="HTTP_prefix_txt">Выключить \'http://\' префикс для интернет-адресов в браузере!</string>
+    <string name="HTTP_prefix">Отключить HTTP префикс</string>
+    <string name="if_you_have_issues_with_the_tasker_integration">Если у вас есть проблемы с интеграцией Tasker, Пожалуйста попробуйте Tasker fallback используйте помощь в настройках.</string>
+    <string name="import_done">Импорт выполнен!</string>
+    <string name="import_tag">Импорт метки</string>
+    <string name="ImportDB_txt">Импорт БД. текущая база данных будет удалена.</string>
+    <string name="ImportDB">Импорт БД</string>
+    <string name="importing_a_database_delete_all_entries_in_your_current_database">Импорт базы данных удалит все записи в текущую базу данных!</string>
+    <string name="info_nfc_retag_beam">Инфо: NFC ReTag BEAM</string>
+    <string name="item_loading">Загрузка...ничего не найдено...</string>
     <string name="Language_region_hl">Язык</string>
     <string name="Language_region_txt">Настройки языка и региона</string>
     <string name="Language_region">Настройки языка</string>
     <string name="language_setting_hl">Альтернативный язык</string>
-    <string name="language_setting_txt">Overrides the system language within NFC ReTag (BETA)</string>
-    <string name="last_cycle_details_dialog">Last cycle</string>
-    <string name="last_scan_details_dialog">Last scan</string>
-    <string name="launch_list_empty">Loading &#8230;it´s quite a lot work &#8230; ;-)</string>
-    <string name="launcher_loading_your_apps">Лаунчер: Loading your apps</string>
-    <string name="letmetry_market">Market tag</string>
-    <string name="letmetry">PRE-ICS</string>
+    <string name="language_setting_txt">Прочитать системный язык в NFC ReTag (Бета)</string>
+    <string name="last_cycle_details_dialog">Последний цикл</string>
+    <string name="last_scan_details_dialog">Последнее сканирование</string>
+    <string name="launch_list_empty">Загрузка...это будет выполняться долго... ;-)</string>
+    <string name="launcher_loading_your_apps">Лаунчер: Загрузка ваших приложений</string>
+    <string name="letmetry_market">Метка супермаркета</string>
+    <string name="letmetry">до Android 4.х</string>
     <string name="limit">Лимит</string>
-    <string name="loading_market">Загрузить Google Play</string>
-    <string name="loading_playstore">Loading playstore!</string>
-    <string name="log_empty">Log empty. You can enable/ disable the log via settings.</string>
-    <string name="log_hl_cycle">Cy#</string>
+    <string name="loading_market">Загрузка Google Play</string>
+    <string name="loading_playstore">Загрузка play store!</string>
+    <string name="log_empty">Лог файл пустой. Вы можете включить/выключить в настройках.</string>
+    <string name="log_hl_cycle">№Ц.</string>
     <string name="log_hl_retag_id">ReTag ID</string>
-    <string name="log_hl_tag">Tag</string>
+    <string name="log_hl_tag">Метка</string>
     <string name="log_hl_time">Время</string>
     <string name="logo">Логотип</string>
-    <string name="lost_tags_hl_ps">Tag Lost</string>
-    <string name="lost_tags_hl">Activate Tag Lost support</string>
-    <string name="lost_tags_txt">Root and Xposed required! (BETA)</string>
-    <string name="menu_add_cycle">"Add new cycle"</string>
-    <string name="menu_add_template">Add template to cycle</string>
+    <string name="lost_tags_hl_ps">Метка потеряна</string>
+    <string name="lost_tags_hl">Поддержка потеряных меток</string>
+    <string name="lost_tags_txt">Требуется Root права и Xposed! (Бета)</string>
+    <string name="menu_add_cycle">"Добавить новый цикл"</string>
+    <string name="menu_add_template">Добавить шаблон для цикла</string>
     <string name="menu_beam">Beam</string>
     <string name="menu_cycle">"Цикл"</string>
     <string name="menu_delete_cycle">"Удалить последний цикл"</string>
@@ -192,33 +192,33 @@
     <string name="menu_delete">Удалить</string>
     <string name="menu_details">"Детали"</string>
     <string name="menu_edit">Редактировать</string>
-    <string name="menu_help">"Помошь"</string>
+    <string name="menu_help">"Помощь"</string>
     <string name="menu_info_disclaimer">"Отказаться"</string>
     <string name="menu_info_new">"Новости"</string>
     <string name="menu_info_rate_app">Оценить приложение!</string>
-    <string name="menu_info">"Info"</string>
+    <string name="menu_info">"Инфо"</string>
     <string name="menu_para_placeholders">Заполнители</string>
     <string name="menu_plugin_info">Эксперт плагин</string>
     <string name="menu_prefs">Настройки</string>
-    <string name="menu_pro">"Pro"</string>
-    <string name="menu_save_template">Save cycle as template</string>
-    <string name="menu_simulate">SIMULATE</string>
+    <string name="menu_pro">"Про"</string>
+    <string name="menu_save_template">Сохранить как шаблон цикла</string>
+    <string name="menu_simulate">Симулировать</string>
     <string name="menu_template">Шаблоны</string>
-    <string name="menu_write_activity_tag">Write activity tag (optional)</string>
-    <string name="menu_write_info">Why writing tags?</string>
+    <string name="menu_write_activity_tag">Чтение активных меток (опционально)</string>
+    <string name="menu_write_info">Как читаються метки?</string>
     <string name="menu_write_tag">Записать</string>
-    <string name="message_expert_plugin">Для некоторых активити понадобятся права суперпользователя и/или разрешения, связанные с безопасностью. Чтобы сохранить основные приложения безопасными, NFC ReTag предоставляет БЕСПЛАТНЫЙ \"Плагин Эксперт-режим для NFC Retag\". Пожалуйста, скачайте плагин с Google Playstore, если хотите запускаться как активити.</string>
+    <string name="message_expert_plugin">Для некоторых действий понадобятся права супер пользователя и/или разрешения, связанные с безопасностью. Чтобы сохранить основные приложения безопасными, NFC ReTag предоставляет Бесплатный \"Плагин Эксперт-режим для NFC Retag\". Пожалуйста, скачайте плагин с Google Playstore, если хотите запускаться как действие.</string>
     <string name="mgt_template">Управление шаблонами</string>
     <string name="Misc_Settings">Остальные настройки</string>
     <string name="More_Advanced_Settings">Расширенные настройки</string>
-    <string name="more">больше</string>
+    <string name="more">Больше</string>
     <string name="music_volume_set">Громкость музыки установить с </string>
-    <string name="Mute_popups_txt">Это приглушает \&apos;Обнаруженную метку\&apos; всплывающие окна с информационной активити</string>
+    <string name="Mute_popups_txt">Это приглушает \'Обнаруженную метку\' всплывающие окна с действими</string>
     <string name="Mute_popups">Отключить всплывающие окна</string>
     <string name="name_or_uid_empty">"Имя или UID пусты! Пожалуйста, добавьте Метку имени или UID первыми!"</string>
     <string name="name_toast">Имя</string>
     <string name="networks_in_range_ssid_">Сети в диапазоне (SSID)</string>
-    <string name="new_tag_detected_id_">"Обнаружена НОВАЯ метка! ID: "</string>
+    <string name="new_tag_detected_id_">"Обнаружена новая метка! ID: "</string>
     <string name="next_cycle_details_dialog">Следующий цикл</string>
     <string name="next">Далее</string>
     <string name="nfc_disabled_please_enable_nfc_first">NFC отключен! Пожалуйста, для начала включите NFC модуль!</string>
@@ -229,18 +229,18 @@
     <string name="nfc_retag_db_repair_tables_created">NFC ReTAG: БД восстановлена: таблицы созданы.</string>
     <string name="nfc_retag_error_import_file_not_found">NFC ReTAG: Ошибка! Не найден файл для импорта.</string>
     <string name="nfc_retag_error_while_creating_template">NFC ReTAG: Ошибка при создании шаблона!</string>
-    <string name="nfc_retag_expert_plugin_is_installed_but_secsettings_not_available">Плагин Эксперт-режим для NFC Retag установлен, НО SecSettings НЕдоступны!</string>
+    <string name="nfc_retag_expert_plugin_is_installed_but_secsettings_not_available">Плагин Эксперт-режим для NFC Retag установлен, но SecSettings недоступны!</string>
     <string name="nfc_retag_import_done">NFC ReTAG: Импорт завершен!</string>
-    <string name="nfc_retag_sorry_no_activity_saved_on_tag">NFC ReTAG: Простите! Нет активити, сохраненных на метку!</string>
+    <string name="nfc_retag_sorry_no_activity_saved_on_tag">NFC ReTAG: Простите! Нет действий, сохраненных на метку!</string>
     <string name="nfc_retag_update_data_done">NFC ReTAG: обновление информации завершено.</string>
     <string name="nfc_retag">NFC ReTAG</string>
-    <string name="no_activity_toast">NFC ReTAG: Простите! Нет активити, сохраненных на метку или шаблон активити не найден!</string>
-    <string name="no_activity">НЕТ АКТИВИТИ</string>
-    <string name="no_nfc">НЕТ NFC</string>
-    <string name="no_tag">Нет записей! Пожалуйста, добавьте&#8230;</string>
-    <string name="no_template_found">НЕТ найденных шаблонов!</string>
-    <string name="no_uid">НЕТ UID</string>
-    <string name="no_wifi_network_in_range_">НЕТ сети Wi-Fi в диапазоне!</string>
+    <string name="no_activity_toast">NFC ReTAG: Простите! Нет действий, сохраненных на метку или шаблон действий не найден!</string>
+    <string name="no_activity">Нет действий</string>
+    <string name="no_nfc">Нет NFC</string>
+    <string name="no_tag">Нет записей! Пожалуйста, добавьте...</string>
+    <string name="no_template_found">Нет найденных шаблонов!</string>
+    <string name="no_uid">Нет UID</string>
+    <string name="no_wifi_network_in_range_">Нет сети Wi-Fi в диапазоне!</string>
     <string name="nr_cycle_details_dialog">Nr циклов</string>
     <string name="nr_scan_details_dialog">Nr сканов</string>
     <string name="number1">1</string>
@@ -256,13 +256,13 @@
     <string name="please_add_secret_code">Пожалуйста, добавьте секретный код</string>
     <string name="please_add_tasker_task">Пожалуйста, добавьте задачу Tasker</string>
     <string name="please_add_time_in_milliseconds">Пожалуйста, добавьте время в миллисекундах</string>
-    <string name="please_choose_activity_not_all_activities_will_launch">Пожалуйста, выберите активити. Не все активити запускаются!</string>
+    <string name="please_choose_activity_not_all_activities_will_launch">Пожалуйста, выберите действие. Не все действия запускаются!</string>
     <string name="please_choose_saved_wifi">Пожалуйста, выберите сохраненную сеть Wi-Fi для подключения. (Включите Wi-Fi, если список пуст!)</string>
     <string name="please_choose_wifi_network_to_connect">Пожалуйста, выберите сеть Wi-Fi network для подключения</string>
     <string name="please_choose">: Пожалуйста, выберите</string>
-    <string name="please_wait">Пожалуйста, подождите&#8230;</string>
+    <string name="please_wait">Пожалуйста, подождите...</string>
     <string name="plug_in_installed_no_root_permission_granted_so_far_">Плагин установлен, до сих пор не предоставлено Root-разрешений.</string>
-    <string name="plug_in_installed_root_available">Плагин установлен и Root-активити доступны! ;-)</string>
+    <string name="plug_in_installed_root_available">Плагин установлен и Root-действия доступны! ;-)</string>
     <string name="plug_in_not_installed">Плагин НЕ установлен</string>
     <string name="plugin_ins_txt">Показывает, если плагин Эксперт-Режима установлен</string>
     <string name="plugin_ins">Плагин установлен?</string>
@@ -270,33 +270,33 @@
     <string name="plugin_msg">Показывать сообщения</string>
     <string name="Plugin">Плагин</string>
     <string name="prev">Назад</string>
-    <string name="pro_text1">"Реклама поддерживает бесплатную (free) версию (с ограниченным числом меток и триггеров) и есть безлимитная версия (PRO), которая свободна от рекламы. \n\nПожалуйста, сначала проверьте работоспособность бесплатной версии, перед загрузкой PRO.\n\n "</string>
+    <string name="pro_text1">"Реклама поддерживает бесплатную (free) версию (с ограниченным числом меток и триггеров) и есть платная версия (PRO), которая свободна от рекламы. \n\nПожалуйста, сначала проверьте работоспособность бесплатной версии, перед загрузкой PRO.\n\n "</string>
     <string name="pro_text2">"Заново использовать защищенные от записи метки - это более дешево, чем покупать новые. В таком случае, оплатите нам чашку кофе, скачав PRO версию ;-)"</string>
     <string name="pro_version">Pro Версия</string>
-    <string name="pw_hint_none">НИЧЕГО</string>
-    <string name="pw_hint">Пожалуйста, добавьте пароль [мин 8 символов]</string>
+    <string name="pw_hint_none">Нет</string>
+    <string name="pw_hint">Пожалуйста, добавьте пароль [мин. 8 символов]</string>
     <string name="question_mark">\?</string>
     <string name="quit_button">Выход</string>
     <string name="rate_button">Оценить приложение</string>
     <string name="rb_aar_tag_advanced">Рек. Версия метки (По умолчанию!)</string>
-    <string name="rb_aar_tag">Версия метки (БЕСПЛАТНАЯ или PRO)</string>
+    <string name="rb_aar_tag">Версия метки (free или PRO)</string>
     <string name="rb_write_tag_fallback">Резервные метки (только резерв!)</string>
     <string name="rb_write_vers_independent_tag">Метка маркета (Меньше!)</string>
-    <string name="receiver_activity_tags_txt">Catch NFC ReTag Activity tags and Activity beam.</string>
-    <string name="receiver_activity_tags">Activity tags and Beam</string>
-    <string name="receiver_battery_tags_txt">Подхватить триггеры батареи (beta).</string>
+    <string name="receiver_activity_tags_txt">Поймать NFC ReTag действия метки и действия beam</string>
+    <string name="receiver_activity_tags">Действия меток и Beam</string>
+    <string name="receiver_battery_tags_txt">Подхватить триггеры батареи (Бета).</string>
     <string name="receiver_battery_tags">Триггер батареи</string>
-    <string name="receiver_bt_tags_txt">Подхватить триггреты Bluetooth (beta).</string>
+    <string name="receiver_bt_tags_txt">Подхватить триггреты Bluetooth (Бета).</string>
     <string name="receiver_bt_tags">Bluetooth триггреы</string>
     <string name="receiver_special_ReTag_txt">Подхватить специальные метки NFC ReTag (По умолчанию).</string>
     <string name="receiver_special_ReTag">Специальные метки NFC Retag</string>
-    <string name="receiver_unspecified_tags_txt">Подхватить метки НЕ от  NFC ReTag (неуказанные/защищ.от записи/текст и тд.). (Оключите для решения проблем на некоторых Beam-девайсах.)</string>
-    <string name="receiver_unspecified_tags">НЕ NFC ReTag метки</string>
-    <string name="receiver_wifi_tags_txt">Подхватить Wi-Fi триггеры (beta).</string>
+    <string name="receiver_unspecified_tags_txt">Подхватить метки не от  NFC ReTag (неуказанные/защищеные от записи/текст и тд.). (Оключите для решения проблем на некоторых Beam-девайсах.)</string>
+    <string name="receiver_unspecified_tags">Не NFC ReTag метки</string>
+    <string name="receiver_wifi_tags_txt">Подхватить Wi-Fi триггеры (Бета).</string>
     <string name="receiver_wifi_tags">Wi-Fi тригггер</string>
     <string name="remind_me_later">Напомнить позже!</string>
     <string name="remindlater_button">Напомнить позже.</string>
-    <string name="RepairDB_txt">Обновить/Восстановить БД. Попробуйте обновить или восстановить базу данных. Ре-инициализируйте некоторые таблицы и значения (т.е. статистика меток)</string>
+    <string name="RepairDB_txt">Обновить/Восстановить БД. Попробуйте обновить или восстановить базу данных. обновите некоторые таблицы и значения (т.е. статистика меток)</string>
     <string name="RepairDB">Обновить/Восстановить БД</string>
     <string name="Request_Root_txt">Вручную запросить права суперпользователя. Обычно это не обязательно.</string>
     <string name="Request_Root">Запрос Root для плагина</string>
@@ -304,36 +304,36 @@
     <string name="reset_settings_txt">Сбрасывает все NFC ReTag настройки, но оставляет базу данных. Вы можете сбросить базу данных через настройки базы данных.</string>
     <string name="reset_settings">Сбросить Настройки</string>
     <string name="retag_broadcast">Широковещательный ReTag</string>
-    <string name="retag_format_hl">Коснитесь метки для ФОРМАТИРОВАНИЯ метки &#8230;</string>
+    <string name="retag_format_hl">Коснитесь метки для форматирование метки...</string>
     <string name="retag_support_xposed_tag_lost_hl">Метка Потеряла поддержку!</string>
     <string name="retag_support_xposed_tag_lost_txt">Поддержка сообщений о потеряных метках с помощью Xposed NFCLockScreenOffEnabler модуля!</string>
-    <string name="retag_write_hl">Коснитесь метки для записи специального NFC ReTAG метки &#8230;</string>
+    <string name="retag_write_hl">Коснитесь метки для записи специального NFC ReTAG метки...</string>
     <string name="retagid_details_dialog">ReTag ID</string>
     <string name="rid_in_tasker_rid">в Tasker: \u0025rid </string>
     <string name="ringer_volume_set">Громкость звонка установлена из </string>
-    <string name="root_available_txt">Показывает, может ли плагин эксперт-режима запускать активити суперпользователя</string>
-    <string name="root_available">Активити суперпользователя?</string>
+    <string name="root_available_txt">Показывает, может ли плагин эксперт-режима запускать действия супер пользователя</string>
+    <string name="root_available">действия супер пользователя?</string>
     <string name="rt_Database_txt">Показывает настройки и опции устранения ошибок относящиеся к базе данных NFC ReTag</string>
-    <string name="rt_Database">База данныхNFC ReTag</string>
+    <string name="rt_Database">База данных NFC ReTag</string>
     <string name="save_template">Сохранить шаблон</string>
-    <string name="scan_text">Коснитесь метки &#8230; </string>
+    <string name="scan_text">Коснитесь метки... </string>
     <string name="sec_txt">Безопасность</string>
     <string name="separator"> / </string>
     <string name="set_alarm_in_x_minutes">Задать сигнал через Х мнут</string>
     <string name="set_brightness">Установить яркость</string>
     <string name="set_pre_configured_timestamp_text">Установить предустановленный текст временной метки</string>
     <string name="set_template_name">Задать имя шаблона</string>
-    <string name="show_db">МОИ МЕТКИ</string>
+    <string name="show_db">Мои метки</string>
     <string name="show_homescreen">Показать Homescreen</string>
     <string name="show_pw">Показать пароль</string>
-    <string name="smarttag_write_hl">Коснитесь метки для записи smarttag для sony устройств &#8230;Для начала выберите цвет!</string>
+    <string name="smarttag_write_hl">Коснитесь метки для записи smarttag для sony устройств...Для начала выберите цвет!</string>
     <string name="smarttag">Записать smarttag для sony устройств</string>
-    <string name="sorry_android_4_0andup">Простите, активити не поддерживается на Android &lt; 4.0+</string>
+    <string name="sorry_android_4_0andup">Простите, действия не поддерживается на Android &lt; 4.0+</string>
     <string name="sorry_it_seems_that_the_3rd_party_app_tasker_is_not_installed">Простите, складывается впеачатление, что приложение третьих лиц, Tasker - не установлено!</string>
     <string name="sorry_no_nfc_adapter_detected">Простите, но NFC адаптер не обраружен! NFC функции не работают! Но Вы можете использовать триггеры Wi-Fi и Батареи для игры с Произвольными метками.</string>
     <string name="sorry_no_valid_uid_detected">Простите, но валидный UID не обнаружен! Пожалуйста, добавьте валидный и уникальный UID перед симулированием меток.</string>
-    <string name="sorry_something_is_wrong_with_your_tag_database">Простите, что-то случилось с вашей базой данных. Большая часть записей кончилась (max. 6 используя БЕСПЛАТНУЮ версию).Пожалуйста, почистите данные приложения (-> удалить метку базы данных)!</string>
-    <string name="sorry_tag_limit_reached">Простите, лимит меткр БЕСПЛАТНОЙ версии иссяк.\n\nЛимит меток: 4x NFC метки (вкл. Пользовательские) + 2 дополнительных триггера (такие как 1x Wi-Fi + 1x Батареи)\n\nПожалуйста, воспользуйтесь PRO версией, если вам необходимо использовать больше меток и триггеров!</string>
+    <string name="sorry_something_is_wrong_with_your_tag_database">Простите, что-то случилось с вашей базой данных. Большая часть записей кончилась (максимум 6 используя бесплатную версию).Пожалуйста, почистите данные приложения (-> удалить метку базы данных)!</string>
+    <string name="sorry_tag_limit_reached">Простите, лимит меткок в бесплатной версии иссяк.\n\nЛимит меток: 4x NFC метки (вкл. Пользовательские) + 2 дополнительных триггера (такие как 1x Wi-Fi + 1x Батареи)\n\nПожалуйста, воспользуйтесь PRO версией, если вам необходимо использовать больше меток и триггеров!</string>
     <string name="sorry_this_feature_needs_android_4_0">Простите, эта штука требует Android не ниже 4.0 ICS! Существует обходной путь для до ICS устройств, но он не так надежен, как ICS решение с BETA статусом. Лучше попробуйте опцию Market метки! Но это удалит все предыдущие данные, сохраненные на этой метке!</string>
     <string name="sp_add_battery_">"Добавить триггер батареи"</string>
     <string name="sp_add_bt">"Добавить Bluetooth триггер"</string>
@@ -345,7 +345,7 @@
     <string name="sp_alarmtimer">Установить сигнал через Х минут</string>
     <string name="sp_auto_rotate">Автоповорот</string>
     <string name="sp_auto_sync">Автосинхронизация</string>
-    <string name="sp_auto">АВТО</string>
+    <string name="sp_auto">Авто</string>
     <string name="sp_battery_low">Батарея разряжена</string>
     <string name="sp_battery_ok">Батарея OK</string>
     <string name="sp_brightness">Яркость</string>
@@ -368,23 +368,23 @@
     <string name="sp_dp_timeout_5">5 минут</string>
     <string name="sp_dp_timeout_6">10 минут</string>
     <string name="sp_dp_timeout_7">30 минут</string>
-    <string name="sp_ffw">Fast Forward</string>
+    <string name="sp_ffw">Перемотка вперед</string>
     <string name="sp_gps">GPS (Плагин + Root)</string>
     <string name="sp_gr_calendar">Календарь / Сиднал</string>
-    <string name="sp_gr_lab">Lab</string>
+    <string name="sp_gr_lab">Тестовые функции</string>
     <string name="sp_gr_launch">Старт / Запуск</string>
     <string name="sp_gr_misc">Разное</string>
     <string name="sp_gr_phone">Телефон</string>
     <string name="sp_gr_settings">Настройки устройства</string>
     <string name="sp_gr_wireless">Беспроводная / Сеть</string>
-    <string name="sp_home">Показать homescreen</string>
-    <string name="sp_hotspot">Wi-Fi Hotspot</string>
-    <string name="sp_Launch_app_activity">Запуск активити</string>
+    <string name="sp_home">Показать главный экран</string>
+    <string name="sp_hotspot">Wi-Fi горячая точка</string>
+    <string name="sp_Launch_app_activity">Запуск действий</string>
     <string name="sp_Launch_Tasker_Task">Tasker задача</string>
-    <string name="sp_Launcher">ЗАпуск приложеня</string>
+    <string name="sp_Launcher">Запуск приложеня</string>
     <string name="sp_LOCATION_MODE_BATTERY_SAVING">Энергосбережение</string>
     <string name="sp_LOCATION_MODE_HIGH_ACCURACY">Высокая точность</string>
-    <string name="sp_LOCATION_MODE_OFF">ВЫКЛ</string>
+    <string name="sp_LOCATION_MODE_OFF">Выкл</string>
     <string name="sp_location_new_gps">Местоположение (GPS)(Root)</string>
     <string name="sp_LocationAccess">Сетевое местоположение</string>
     <string name="sp_Mediabutton">Другой плеер</string>
@@ -394,12 +394,12 @@
     <string name="sp_nfc">NFC</string>
     <string name="sp_normal">Нормально</string>
     <string name="sp_nothing">Ничего не делать</string>
-    <string name="sp_off">ВЫКЛ</string>
-    <string name="sp_on_silent">ВКЛ тихий режим</string>
-    <string name="sp_on">ВКЛ</string>
+    <string name="sp_off">Выкл</string>
+    <string name="sp_on_silent">Вкл тихий режим</string>
+    <string name="sp_on">Вкл</string>
     <string name="sp_pause">Пауза (HC 3.x нуж.)</string>
     <string name="sp_play">Воспроизведение (HC 3.x нуж.)</string>
-    <string name="sp_playpause">Перекл.воспр. (ПО УМОЛЧАНИЮ)</string>
+    <string name="sp_playpause">Перекл.воспр. (По умолчанию)</string>
     <string name="sp_Popup">Показать pop-up</string>
     <string name="sp_prev">Предыдущее</string>
     <string name="sp_retag_broadcast">ReTag вещание</string>
@@ -408,104 +408,104 @@
     <string name="sp_run_setcycle">Установить цикл</string>
     <string name="sp_runSecretCode">Выполнить секретный код</string>
     <string name="sp_say_time">Сказать текущее время (EN)</string>
-    <string name="sp_SENSORS_ONLY">ТОЛЬКО СЕНСОР</string>
+    <string name="sp_SENSORS_ONLY">Только сенсор</string>
     <string name="sp_set_alarm_tone">Установить тон сигнала</string>
     <string name="sp_set_notification_tone">Установить тип уведомлений</string>
     <string name="sp_set_ringtone">Установить рингтон</string>
     <string name="sp_setALarmVolume">Установить громкость сигнала</string>
     <string name="sp_setMusicVolume">Установить громкость музыки</string>
     <string name="sp_setRingerVolume">Установить громкость звонка</string>
-    <string name="sp_silent">Тихр</string>
+    <string name="sp_silent">Тихо</string>
     <string name="sp_stay_on_0">Никогда</string>
-    <string name="sp_stay_on_1">AC</string>
+    <string name="sp_stay_on_1">Зарядка по сети</string>
     <string name="sp_stay_on_2">USB</string>
-    <string name="sp_stay_on_3">AC по USB</string>
-    <string name="sp_stay_on_whileLoading">Оставаться ВКЛ при подзарядке</string>
+    <string name="sp_stay_on_3">Зарядка по USB</string>
+    <string name="sp_stay_on_whileLoading">Оставаться вкл при подзарядке</string>
     <string name="sp_stop">Стоп</string>
     <string name="sp_tasker_advanced">Tasker задание (дополнительно)</string>
     <string name="sp_template_tag">Шаблон</string>
     <string name="sp_TexttoSpeech">TexttoSpeech</string>
     <string name="sp_Timestamp">Отметка времени (ICS 4.x + Плагин)</string>
-    <string name="sp_toggle_silent">ВКЛ-ВЫКЛ тихий режим</string>
-    <string name="sp_toggle">ВКЛ-ВЫКЛ</string>
+    <string name="sp_toggle_silent">Вкл-выкл тихий режим</string>
+    <string name="sp_toggle">Вкл-выкл</string>
     <string name="sp_uri">Открыть URI</string>
     <string name="sp_vibrate">Вибрация</string>
     <string name="sp_Wait">Подождите</string>
     <string name="sp_wlan">WLan</string>
-    <string name="special_tag">Записать специальную NFC ReTAG метку</string>
-    <string name="sreen_off_mode_lost_tags_hl">Support screen off mode</string>
-    <string name="sreen_off_mode_lost_tags_txt">Tag Lost, doesn´t fire when screen goes off in nfc screen off mode (NFC ON while locked AND screen ON)</string>
-    <string name="ssid_hint">Please add SSID</string>
+ <string name="special_tag">Написать специальную метку NFC ReTAG</string>
+    <string name="sreen_off_mode_lost_tags_hl">Поддержка выключенного экрана</string>
+    <string name="sreen_off_mode_lost_tags_txt">Потеряная метка, не срабатывает, когда экран гаснет экран NFC в выключенном режиме (NFC В то время заблокирован и экраном)</string>
+    <string name="ssid_hint">Пожалуйста, добавьте SSID</string>
     <string name="SSID_txt">SSID</string>
-    <string name="tag_already_saved_uid">"TAG already saved! UID: "</string>
-    <string name="tag_details">TAG DETAILS</string>
-    <string name="tag_detected">"Tag detected!  "</string>
-    <string name="tag_icon">Tag icon</string>
-    <string name="tag_import_hl">Tap a tag to IMPORT activities from NFC ReTAG activity tag!</string>
-    <string name="tag_is_not_formatable">Tag is not formatable or already Ndef formated!</string>
-    <string name="tag_is_write_protected_blocked">Tag is write protected, blocked or not formated! Nothing done! You can try to format the tag, if error persists!</string>
-    <string name="tag_is_write_protected_nothing_done">Tag is write protected! Nothing done!</string>
-    <string name="tag_is_write_protected">Tag is write protected or blocked! Nothing done!</string>
-    <string name="tag_name_add_name">Tag name</string>
-    <string name="tag_name_hl">"Tag: "</string>
-    <string name="tag_name">Tag name</string>
-    <string name="tag_not_formatable_nothing_done">Tag not formatable! Nothing done!</string>
-    <string name="tag_write_hl">Tap a tag to write activities to tag (optional)</string>
-    <string name="task_action">Task/ Action</string>
-    <string name="Tasker_fallback_txt">Activate manual input for Tasker tasks. For cases when Tasker list disappears without saving the task!</string>
-    <string name="Tasker_fallback">Enable Tasker fallback</string>
-    <string name="tasker_task">Tasker Task</string>
-    <string name="tech_details_dialog">Tech</string>
-    <string name="template_activity_not_allowed">Template activity not allowed within activity tag or beam (activity skipped!)</string>
-    <string name="template_activity">Template activity</string>
+    <string name="tag_already_saved_uid">"Метка уже сохранена! UID: "</string>
+    <string name="tag_details">Детали метки</string>
+    <string name="tag_detected">"Обнаружена метка!  "</string>
+    <string name="tag_icon">Значок метки</string>
+    <string name="tag_import_hl">Нажмите на метку для импорта действий!</string>
+    <string name="tag_is_not_formatable">Метка не форматируется или уже отформатирован в Ndef!</string>
+    <string name="tag_is_write_protected_blocked">Метка защищена от записи, заблокирован или не отформатирован! Вы можете отформатировать метку, если ошибка повторяется!</string>
+    <string name="tag_is_write_protected_nothing_done">Метка защищена от записи! Ничего не сделано!</string>
+    <string name="tag_is_write_protected">Метка защищена от записи или заблокирован! Ничего не сделано!</string>
+    <string name="tag_name_add_name">Имя Метки</string>
+    <string name="tag_name_hl">"Метка: "</string>
+    <string name="tag_name">Имя метки</string>
+    <string name="tag_not_formatable_nothing_done">Метка не отформатирована! Ничего не сделано!</string>
+    <string name="tag_write_hl">Нажмите на метку для записи действий (опционально)</string>
+    <string name="task_action">Задачи / Действия</string>
+    <string name="Tasker_fallback_txt">Активируйте ручной ввод для диспетчера задач. Для случаев, когда список исчезает без сохранения задачи!</string>										
+    <string name="Tasker_fallback">Включение резервного диспетчера</string>
+    <string name="tasker_task">Диспетчер задач</string>
+    <string name="tech_details_dialog">Технология</string>
+    <string name="template_activity_not_allowed">Действия шаблона не разрешена в рамках деятельности метки(Пропуск действий!)</string>												
+    <string name="template_activity">Шаблон действий</string>
     <string name="template_name">Имя шаблона</string>
     <string name="template_saved">Шаблон сохранен!</string>
-    <string name="template_tag_add_error">Sorry, you could not add template activities to templates due to possible circular references!</string>
+    <string name="template_tag_add_error">Не удалось добавить шаблон действий в шаблоны из-за возможных циклических ссылок!</string>										
     <string name="template">Шаблон</string>
     <string name="thank_you">Спасибо!</string>
-    <string name="this_free_version_has_limit_of_re_used_tags">This free version has a tag limit.\n\nTag limit: 4x NFC tags (incl. Manual) + 2 additional triggers (e.g. 1x Wifi + 1x Battery)\n\nOK, we let you add another NFC tag, but that´s it for the free version!\n\nGo and get the PRO version if you need more tags and triggers!</string>
-    <string name="this_will_delete_all_entries_in_the_log">This will delete all entries in the log.</string>
-    <string name="this_will_delete_all_previous_stored_data_on_the_tag">This will delete all previous stored data on the tag!</string>
-    <string name="this_will_format_the_tag_all_data_will_be_deleted">This will format the tag. All data will be deleted!</string>
-    <string name="this_will_import_an_activity_tag_as_template">This will import an activity tag as template!</string>
-    <string name="this_will_override_all_previous_stored_data_on_the_tag">This will override all previous stored data on the tag!</string>
-    <string name="timestamp_txt">Configure timestamp title prefix (via Expert Plugin)</string>
-    <string name="timestamp">Timestamp title</string>
+    <string name="this_free_version_has_limit_of_re_used_tags">Эта бесплатная версия имеет ограничение по меткам.\n\nЛимит: 4x NFC метки (вкл. Ручной) + 2 дополнительные триггера (Например 1x Wifi + 1x Battery)\n\nOK, Мы позволим вам добавить еще одину NFC метку в бесплатной версии!\n\nПолучите PRO версию, если вам нужно больше меток и триггеров!</string>
+    <string name="this_will_delete_all_entries_in_the_log">Это приведет к удалению всех записей в журнале.</string>
+    <string name="this_will_delete_all_previous_stored_data_on_the_tag">Это приведет к удалению всех ранее сохраненных данных в метки!</string>
+    <string name="this_will_format_the_tag_all_data_will_be_deleted">Это отформатирует метку. Все данные будут удалены!</string>
+    <string name="this_will_import_an_activity_tag_as_template">Это импортирует действия меток как шаблон!</string>
+    <string name="this_will_override_all_previous_stored_data_on_the_tag">Это переопределит все предыдущие сохраненные данные в метке!</string>
+    <string name="timestamp_txt">Настройте префикс формата времени (через эксперт плагин)</string>
+    <string name="timestamp">Название метки времени </string>
     <string name="title_AA_plugin">Expert Plugin</string>
-    <string name="title_and_uid_are_empty">" Title AND UID are empty! Please add a title or an UID!"</string>
-    <string name="title_details_dialog">Title</string>
-    <string name="title_is_empty">" Title is empty! Please add a template title!"</string>
-    <string name="title">Tag name</string>
-    <string name="to_configure_the_wifi_network_please_use_the_standard_wifi_settings_">To configure the wifi network, please use the standard wifi settings.</string>
-    <string name="to_configure_the_wifi_network">To configure the wifi network, please use the standard wifi settings.</string>
-    <string name="to"> to </string>
-    <string name="tts_error">Sorry! Text To Speech failed&#8230;</string>
-    <string name="type_details_dialog">Type</string>
+    <string name="title_and_uid_are_empty">" Название и UID пусты! Добавьте заголовок или UID!"</string>
+    <string name="title_details_dialog">Название</string>
+    <string name="title_is_empty">" Название пусто! Добавьте название шаблона!"</string>
+    <string name="title">Имя метки</string>
+    <string name="to_configure_the_wifi_network_please_use_the_standard_wifi_settings_">Для настройки wifi, используйте стандартные параметры wifi.</string>																						
+    <string name="to_configure_the_wifi_network">Для настройки wifi, используйте стандартные параметры wifi.</string>
+    <string name="to"> в </string>
+    <string name="tts_error">Сбой преобразования текста в речь...</string>
+    <string name="type_details_dialog">Тип</string>
     <string name="uid_details_dialog">UID</string>
-    <string name="uid_in_tasker_uid">in Tasker: \u0025uid </string>
+    <string name="uid_in_tasker_uid">в Диспетчере: \u0025uid </string>
     <string name="uid_toast">UID</string>
-    <string name="uid">Tag UID</string>
-    <string name="unlicensed_dialog_body">NFC ReTAG PRO: This application is not licensed or can not connect to check the license. Check your connection, purchase it from Google Play or try the FREE version.</string>
-    <string name="unlicensed_dialog_title">Application not licensed</string>
+    <string name="uid">UID метки</string>				
+    <string name="unlicensed_dialog_body">NFC ReTAG PRO: Приложение не может проверить лицензию. Проверьте подключение, купите в Google Play или попробуйте бесплатную версию.</string>
+    <string name="unlicensed_dialog_title">Приложение не имеет лицензии</string>
     <string name="update_plugin">Обновить плагин</string>
-    <string name="update_repair_db_please_choose_modus">Update/Repair DB: Please choose modus</string>
-    <string name="volume_text_hl">Volume</string>
-    <string name="warning">WARNING</string>
-    <string name="welcome_pro">Welcome PRO</string>
-    <string name="why_writing_tags">Why writing tags?</string>
-    <string name="wifi_disabled_please_enable_wifi_first">Wifi disabled. Wifi must be enabled to get the available networks.</string>
-    <string name="wifi_disabled">Wifi disabled</string>
-    <string name="wifi_hotspot_beta_feature">WiFi HOTSPOT = BETA feature!</string>
-    <string name="wifi_list_not_accessible_please_enable_wifi_first">Wifi list not accessible, please enable wifi first!</string>
-    <string name="wifi_settings_not_available_">WiFi Settings NOT available!</string>
-    <string name="wifi_trigger">Add Wifi trigger</string>
-    <string name="write_error_nothing_done_fallback">Write error! Nothing done. Please check, if tag has enough writeable memory. Try an other write option (fallback = smallest)!</string>
-    <string name="write_error_nothing_done_try_again">Write error! Nothing done. Try again!</string>
-    <string name="Write_sp_Tag_txt">Tag forces device to open NFC ReTAG when this tag is detected!</string>
-    <string name="Write_sp_Tag">Write special NFC ReTAG tag</string>
-    <string name="Write_Tag">Write Tag</string>
-    <string name="you_can_only_delete_the_last_cycle">You can only delete the LAST cycle (>1). Please navigate to the last cycle.</string>
-    <string name="add_activity">Activity</string>
+    <string name="update_repair_db_please_choose_modus">Обновить/восстановить БД: выберите образ</string>
+    <string name="volume_text_hl">Объем</string>
+    <string name="warning">Предупреждение</string>
+    <string name="welcome_pro">Добро пожаловать в PRO</string>
+    <string name="why_writing_tags">Как читать метки?</string>
+    <string name="wifi_disabled_please_enable_wifi_first">WiFi отключен. Для поиска включите WiFi.</string>
+    <string name="wifi_disabled">Wifi отключен</string>
+    <string name="wifi_hotspot_beta_feature">Wi-Fi точка доступа = бета функция!</string>
+    <string name="wifi_list_not_accessible_please_enable_wifi_first">Список WiFi не доступен, включите сначала WiFi!</string>
+    <string name="wifi_settings_not_available_">WiFi Параметры не доступны!</string>
+    <string name="wifi_trigger">Добавить Wifi триггер</string>													
+    <string name="write_error_nothing_done_fallback">Ошибка записи! Ничего не сделано. Проверьте, имеет ли метка достаточно памяти для записи. Попробуйте другой вариант (резервный = наименьший)!</string>
+    <string name="write_error_nothing_done_try_again">Ошибка записи! Ничего не сделано. Повторите!</string>
+    <string name="Write_sp_Tag_txt">Метка откроет NFC ReTAG при обнаружении этой метки!</string>
+    <string name="Write_sp_Tag">Прочитать специальную NFC ReTAG метку</string>
+    <string name="Write_Tag">Прочитать метку</string>
+    <string name="you_can_only_delete_the_last_cycle">Можно удалить только последний цикл (>1). Перейдите на последний цикл.</string>
+    <string name="add_activity">Действия</string>
     
  
     
@@ -529,96 +529,96 @@
         <item>"Всегда доступно обнаружение"</item>
     </string-array>
     <string-array name="repair_array">
-        <item>Light (DEFAULT!)</item>
-        <item>Medium</item>
-        <item>Full DB wipe!</item>
+        <item>Легкий (по умолчанию!)</item>
+        <item>Средний</item>
+        <item>Полное стирание DB!</item>
     </string-array>
 
     <string name="help_text1">"NFC ReTAG\n\n
-***NEW: Version 2.7 added Wifi and Battery triggers***\n
-ReUse/ReCyle write protected NFC tags such as hotel key-cards, access badges,  price tags, skicards, key fobs etc. &#8230;\n
-You can use this app to associate multiple functions (e.g. enable Wlan, start navigation to ZXY, toggle Bluetooth, launch any installed app, call a phone number etc.) to a specific NFC Tag or trigger via an app internal database.\n
-This app does not write or change any NFC tags (except you want to write a special NFC ReTAG tag for better dispatching)!\n\n
+***Новая версия 2.7 добавлены триггеры Wi-Fi и батареи***\n
+Повторное использование записи защищенных NFC меток, например ключ-карты отеля, пропуска, ценника, брелоков и т.д....\n
+Вы можете использовать это приложение для связывания нескольких функций (например, включить Wlan, навигацию, переключать Bluetooth, запустить любое установленное приложение, вызвать телефонный номер и т.д.).\n
+Это приложение не изменяет метки NFC (за исключением того, если вы хотите прочитать специальную NFC ReTAG метку для лучшего распределения)! \n\n
 
-Help, full changelog and support: http://forum.xda-developers.com/showthread.php?t=1477138\n\n
+Справка, полный список изменений и поддержка: http://forum.xda-developers.com/showthread.php?t=1477138\n\n
 
-New Features:\n
-Update 2.8 (2.8.x = fixes)
-* NEW Bluetooth trigger
-* Set Cycle activity
-* Android 4.4 support
-* Android 4.4 Location activity
-* Bug fixes  
+Новые возможности:\n
+Обновление 2.8 (2.8.x = fixes)
+* Новый Bluetooth триггер
+* Набор циклов действий
+* Поддержка Android 4.4 
+* Android 4.4 действия местоположения
+* Исправления ошибок 
 
-Update 2.7 (2.7.x = fixes)
-* NEW Wifi and Battery triggers
-* NEW Activities: Close app, Toggle NFC Setting, Location Access, URI
-* Log table for activities
-* Improved receiver handling  
-* And many additional improvements, tweaks and bugfixes   
+Обновление 2.7 (2.7.x = fixes)
+* Новые триггеры WiFi и батареи
+* Новые действия (Плагин 1.3): Закрыть приложение, переключить NFC, местоположение, URI
+* Таблицы журнала для действий
+* Улучшенная обработка  
+* Многие дополнительные усовершенствования, настройки и исправления
 
-An ad supported free version (with limited number of tags and triggers) and an unlimited ad-free (PRO) version is available. Please check if this app works on your phone via the free version before downloading the pro version.\n\n
-Hint: Some security related NFC Tags (e.g. in passports) change their ID on every read attempt. This app will not work with such tags.\n\n" </string>
+Мы поддерживаем бесплатную версию (с ограниченным количеством меток и триггеров) и версию PRO без ограничений. Перед загрузкой pro-версии, проверьте, работает ли бесплатная версия.\n\n
+Это приложение не будет работать с метками с повышенной безопасностью (например, паспорт).\n\n" </string>
 
-    <string name="new_text1">"Update 2.8 (2.8.x = fixes)
-* NEW Bluetooth trigger
-* Set Cycle activity
-* Android 4.4 support
-* Android 4.4 Location activity
-* Bug fixes
+    <string name="new_text1">"Обновление 2.8 (2.8.x = fixes)
+* Новый Bluetooth триггер
+* Набор циклов действий
+* Поддержка Android 4.4 
+* Android 4.4 действия местоположения
+* Исправления ошибок
 
-Update 2.7 (2.7.x = fixes)
-* NEW Wifi and Battery triggers
-* NEW Activities (plugin 1.3): Close app, Toggle NFC Setting, Location Access, URI
-* Log table for activities
-* Improved receiver handling  
-* And many additional improvements, tweaks and bugfixes
+Обновление 2.7 (2.7.x = fixes)
+* Новые триггеры WiFi и батареи
+* Новые действия (Плагин 1.3): Закрыть приложение, переключить NFC, местоположение, URI
+* Таблицы журнала для действий
+* Улучшенная обработка  
+* Многие дополнительные усовершенствования, настройки и исправления
 
 Full Changelog: http://forum.xda-developers.com/showthread.php?t=1477138 </string>
 
-    <string name="beam_text1">Beam your tag cycle!\n\nSince NFC ReTag version 2.2 you can beam your tag cycle to other android devices with NFC ReTag installed (android 4.x required!)\n\n
-"How to beam your tag cycle:
-- First enable android beam (-> settings) on both devices &#8230;\n
-- Be aware, that standard nfc will only work when device is not locked and screen is ON.\n
-- Open this NFC ReTag tag edit screen on the sending device and choose the tag cycle for beaming \n
-- Tap the devices together with their "nfc sweet spot" &#8230; -> you should hear the nfc sound AND the screen view should shrink and a message "touch to beam" should appear.\n
-- Touch the shrunk screen view without losing the nfc connection and that´s it!&#8230; \n\n
-Hint: Via NFC ReTag settings, you could enable/disable the beam receiver on the receiving device. For importing beamed tag cycles as template, you must open the "Import activity tag as template" screen on the receiving device."\n\n</string>
-  
-    <string name="write_activitytag_text1">	Why writing tags?\n\nWith NFC ReTag  you don´t have to write anything on your tag. Your activities are saved in an app-internal database on your device (-> Does NOT send ANY data to the net!). The app reads only the ID of the tag and triggers the linked activities.
-	This concept has a lot of advantages, like the use of write protected tags, faster tag processing, an unlimited number of activities per tag (without size restrictions) and the possibility to use some cool features e.g. the tag cycles.
-	\n\nNevertheless, NFC ReTag allows you to write tags (of course, writeable tags required!):
-	\n\n- Write special NFC ReTag tag (via more-Button): Better tag dispatching (only short info on the tag, no activities on the tag, RECOMMENDED!)
-	\n\n- Write NFC ReTag activity tag (via Edit tag): Activities written on tag (number of activities depends on tag size, no cycles, database independent, works on every device with NFC ReTag installed, import of NFC ReTag activity tags available)
-	\n\n- Write smarttag for sony devices (via more-Button): Write smarttags (Blue, Green etc.)
-	\n\n- Format as NDEF tag (via more-Button): NDEF format option for NOT (pre-)formated tags
-	\n\nBottom line: With NFC ReTag you could combine the advantages of both concepts&#8230; 
-	\nSo, why not? ;-)
-	\n\nHint:You could shrink the necessary tagsize, if you want to write an activity tag, created before the 2.1 update, by simply re-attaching the [Start app] activities!
-	\n\n\nHave fun!\n\n\n</string>
-  
- <string name="placeholder_hint_txt">"Since NFC ReTag version 2.5 you could use placeholders within all text parameters to let your activities replace the placeholders at runtime.\n
-Available Placeholders:
+    <string name="beam_text1">Beam your tag cycle!\n\nSince NFC ReTag version 2.2 Вы можете передавать метки на другие устройства с установленным NFC ReTag (только для Android 4.x!)\n\n
+"Как передовать метки с циклами:
+-Включите Аndroid Beam на обоих устройствах...\n
+-Имейте в виду, стандарт NFC будет работать тогда, когда устройство не заблокировано и включен экран.\n
+-Откройте метку для редактирования на отправляющем устройстве и выберите цикл метки для передачи \n
+-Прикоснитесь устройствами... -> Вы услышите звук, экран уменьшится и появится сообщение "touch to beam".\n
+-Коснитесь экрана и это все!... \n\n
+Подсказка: Через настройки NFC ReTag, вы можете включить/выключить Beam на принимающем устройстве. Для импорта меток как шаблона, необходимо открыть экран "Импорт действий меток как шаблонов" на принимающем устройстве."\n\n</string>
+
+<string name="write_activitytag_text1">	Как прочитать метку?\n\nС NFC ReTag Вы не сможете изменить что-либо на вашей метке. Ваши действия сохраняются во внутреннюю базу данных на вашем устройстве (-> данные в сеть не отправляются!). Приложение читает только идентификатор метки и связанные с ним триггеры.
+	Эта концепция имеет много преимуществ, например использование меток защищенных от записи, быстрая обработка меток, неограниченное количество действий в меток (без ограничений размера) и возможность использовать циклы.
+	\n\nТем не менее, NFC ReTag позволяет писать метки (требуются разрешенные для записи метки!):
+	\n\n- Запись специальной метки (кнопка Еще) для лучшей диспетчеризации (только краткая информация в метке, без действий, рекомендуется!)
+	\n\n- Запись действий в метку (через редактирование меток), количество зависит от размера метки, циклов, независимой базы данных, работает на любом устройстве с установленым NFC ReTag, доступен импорт меток
+	smarttag \n\n- Запись для устройств от Sony (кнопка Еще): запись меток (синий, зеленый и т.д.)
+	\n\n- Формат NDEF (кнопка Еще): параметр NDEF форматирование для неотформатированных меток
+	\n\nBottom линия: С NFC ReTag, вы могли бы объединить преимущества обоих конепций... 
+	\n А почему бы и нет? ;-)
+	\n\nHint:Вы можете уменьшить размер метки, если хотите записать действия, созданные до обновления 2.1, просто присоединив [Start app] действий!
+	\n\n\nВеселитесь!\n\n\n</string>
+	
+ <string name="placeholder_hint_txt">"Начиная с версии 2.5 вы можете использовать заменители в тексте во время выполнения действий.\n									
+Доступные заполнители:
 
                \n<b>[%UID]</b>= UID
                \n<b>[%RID]</b>= ReTag ID
-               \n<b>[%CYC]</b>= Current Cycle
+               \n<b>[%CYC]</b>= Текущий цикл
                \n<b>[%AID]</b>= Android ID
-               \n<b>[%TIM]</b>= Current Time (hour:minute)
-               \n<b>[%DAT]</b>= Current Date (yyyy-mm-dd)
+               \n<b>[%TIM]</b>= Текущее время (часы:минуты)
+               \n<b>[%DAT]</b>= Текущая дата (гггг-мм-дд)
                
-\n\nYou could deactivate this function via settings. The ReTag ID is in most cases identical with the UID, but not always! Be aware that devices with Broadcom NFC chip (e.g. Nexus 4 and Nexus 10), doesn´t support mifare classic 1k tags, therefore the mifare UID could not be correctly parsed with those device and tag combinations. In this cases, and <b>ONLY</b> in this cases, you could try the [%UID_M] placeholder."</string>
+\n\nМожно отключить эту функцию в настройках. ReTag ID в большинстве случаев идентичны с UID, но не всегда! Имейте в виду, что устройства с чипами Broadcom NFC (Nexus 4 and Nexus 10), не поддерживают mifare классические 1k метки, поэтому mifare UID может быть неправильно обработан. В этом случае используйте [%UID_M] заменитель."</string>
    
-    <string name="help_tag_version">"Since NFC ReTag version 2.6 we added additional write options for <b>Special NFC ReTag tags</b> and <b>Activity tags</b>. The Android NFC dispatching system is complex and powerful, finding the right kind of write option is always a trade-off between required tag space, bulletproof dispatching and compatibility.\n\n
-Depending on your personal needs, your available tag space and your Android version (Version tags require Android 4.+), different concepts could be the right choice for you:\n\n                      
-* <b>Advanced Version Tag:</b> Best choice, if tag space doesn´t matter and you want to use it (e.g. sharing WiFi credentials with your friends) with the PRO and FREE version (Bulletproof dispatching, biggest tag space).\n\n        
-* <b>Market Tag: </b> Best choice, if tag space matters and you want as much as compatibility (FREE/PRO) as possible (Strong tag dispatching, small tag space).\n\n          
-* <b>Version Tag:</b> Best choice, if you want to use the tag only personally with the FREE <b>OR</b> PRO version. (Bulletproof dispatching, medium tag space).\n\n            
-* <b>Fallback Tag:</b> Smallest Tag space, only recommended as fallback with very small tag space available (Weak dispatching, smallest tag space required).\n\n"</string>
+    <string name="help_tag_version">"Начиная с версии NFC ReTag 2.6 мы добавили дополнительные записи параметров для <b>специальных меток</b> и <b>меток действий</b>. NFC система, сложная и мощная, ищет правильные варианты для записи, и это компромисс между пространством меток, диспетчеризацией и совместимостью.\n\n
+									В зависимости от ваших потребностей и версией Android (требуется Android 4.+), различные концепции могут быть правильным выбором для Вас:\n\n                      
+* <b>Advanced Version Tag:</b> Лучший выбор, если пространство меток не важно и вы хотите использовать его (например, расшаривание WiFi) с PRO и FREE версиями (мощная диспетчеризация, большое пространство меток)..\n\n 
+* <b>Market Tag: </b> Лучший выбор, если пространство меток важно и Вы желаете максимальной совместимости (Free/Pro), мощная диспетчеризация, маленькое пространство).\n\n
+* <b>Version Tag:</b> Лучший выбор, если Вы хотите использовать метки только лично (Free/Pro). (мощная диспетчеризация, среднее пространство).\n\n   
+* <b>Fallback Tag:</b> Маленькое пространство, рекомендуется только как резервное (слабая диспетчеризация, маленькое пространство).\n\n"</string>
 
   <!--   //v19 -->
-    <string name="sp_LocationAccess">Network location (deprecated 4.4+)</string>
-    <string name="sp_gps">GPS (deprecated 4.4+)</string>
+    <string name="sp_LocationAccess">Сетевое расположение (устарело для 4.4+)</string>
+    <string name="sp_gps">GPS (устарело для  4.4+)</string>
   <!--   // /v19 -->
 
 </resources>

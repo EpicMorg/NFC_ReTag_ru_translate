@@ -19,10 +19,10 @@
     <string name="plug_in_is_installed_but_root_request_failed">"Плагин установлен, не удалось получить запрос на Root (Super User не найден)! Пожалуйста, проверьте, ваше устройство с root правами.\n\n Root прав для: "</string>
     <string name="plug_in_is_installed_su_seems_available_but_root_request_failed">"Плагин установлен, Super User кажется установлен, не удалось выполнить запрос на Root права! Кажется, что ваше приложение SU (Например: SuperUser, SuperSU) заблокировал запрос. Пожалуйста, включите Root для плагина.\n\nЗапрос Root прав для: "</string>
     <string name="request_root">Запросить Root права снова</string>
-    <string name="run_timestamp_error_plugin">Запуск отметки времени: Ошибка плагина</string>
+    <string name="run_timestamp_error_plugin">Запуск временной печати: Ошибка плагина</string>
     <string name="stay_on_while_charging">На время зарядки</string>
-    <string name="timestamp_retag_default">"Отметка времени ReTAG: "</string>
-    <string name="timestamp">Отметка времени</string>
+    <string name="timestamp_retag_default">"Временная печать ReTAG: "</string>
+    <string name="timestamp">Временная печать</string>
 
 
 </resources>
